@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OnAsset Enhanced DashBoard" duration-ms="241839" started-at="2021-12-01T11:21:14 IST" finished-at="2021-12-01T11:25:16 IST">
+    <groups>
+    </groups>
+    <test name="Shipment DashBoard" duration-ms="241839" started-at="2021-12-01T11:21:14 IST" finished-at="2021-12-01T11:25:16 IST">
+      <class name="com.EnhancedDashBoard.TestCases.TC_ShipmentListTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.EnhancedDashBoard.TestCases.TC_ShipmentListTest@51b279c9]" name="setup" is-config="true" duration-ms="70108" started-at="2021-12-01T11:22:42 IST" finished-at="2021-12-01T11:23:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.EnhancedDashBoard.TestCases.TC_ShipmentListTest@51b279c9]" name="loginTest" duration-ms="16783" started-at="2021-12-01T11:23:52 IST" finished-at="2021-12-01T11:24:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="shipmentlistActivity()[pri:0, instance:com.EnhancedDashBoard.TestCases.TC_ShipmentListTest@51b279c9]" name="shipmentlistActivity" duration-ms="65551" started-at="2021-12-01T11:24:09 IST" finished-at="2021-12-01T11:25:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shipmentlistActivity -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.EnhancedDashBoard.TestCases.TC_ShipmentListTest@51b279c9]" name="tearDown" is-config="true" duration-ms="1010" started-at="2021-12-01T11:25:15 IST" finished-at="2021-12-01T11:25:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.EnhancedDashBoard.TestCases.TC_ShipmentListTest -->
+      <class name="com.EnhancedDashBoard.TestCases.TC_LoginTest1_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.EnhancedDashBoard.TestCases.TC_LoginTest1_001@1d7acb34]" name="setup" is-config="true" duration-ms="70346" started-at="2021-12-01T11:21:14 IST" finished-at="2021-12-01T11:22:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.EnhancedDashBoard.TestCases.TC_LoginTest1_001@1d7acb34]" name="loginTest" duration-ms="16859" started-at="2021-12-01T11:22:24 IST" finished-at="2021-12-01T11:22:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.EnhancedDashBoard.TestCases.TC_LoginTest1_001@1d7acb34]" name="tearDown" is-config="true" duration-ms="939" started-at="2021-12-01T11:22:41 IST" finished-at="2021-12-01T11:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.EnhancedDashBoard.TestCases.TC_LoginTest1_001 -->
+    </test> <!-- Shipment DashBoard -->
+  </suite> <!-- OnAsset Enhanced DashBoard -->
+</testng-results>

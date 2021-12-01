@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [OnAsset Enhanced DashBoard]">
+  <listeners>
+    <listener class-name="com.EnhancedDashBoard.Utilities.Reporting1"/>
+  </listeners>
+  <test thread-count="5" name="Shipment DashBoard(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.EnhancedDashBoard.TestCases.TC_ShipmentListTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="shipmentlistActivity"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.EnhancedDashBoard.TestCases.TC_ShipmentListTest -->
+    </classes>
+  </test> <!-- Shipment DashBoard(failed) -->
+</suite> <!-- Failed suite [OnAsset Enhanced DashBoard] -->

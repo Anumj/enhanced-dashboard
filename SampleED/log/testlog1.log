@@ -1,0 +1,1612 @@
+2021-10-28 17:09:28,923 [main] INFO ebanking - URL is OPened
+2021-10-28 17:09:29,010 [main] INFO ebanking - Entered UserName
+2021-10-28 17:09:29,061 [main] INFO ebanking - Entered Password
+2021-10-28 17:09:30,082 [main] INFO ebanking - LoginTest passed
+2021-10-28 18:13:11,426 [main] INFO ebanking - URL is OPened
+2021-10-28 18:13:11,523 [main] INFO ebanking - Entered UserName
+2021-10-28 18:13:11,575 [main] INFO ebanking - Entered Password
+2021-10-28 18:13:12,974 [main] INFO ebanking - LoginTest passed
+2021-10-28 18:16:44,029 [main] INFO ebanking - URL is OPened
+2021-10-28 18:16:44,114 [main] INFO ebanking - Entered UserName
+2021-10-28 18:16:44,165 [main] INFO ebanking - Entered Password
+2021-10-28 18:16:45,273 [main] INFO ebanking - LoginTest passed
+2021-10-29 17:45:48,714 [main] INFO ebanking - URL is OPened
+2021-10-29 17:45:48,866 [main] INFO ebanking - Entered UserName
+2021-10-29 17:45:48,924 [main] INFO ebanking - Entered Password
+2021-10-29 17:45:49,891 [main] INFO ebanking - LoginTest passed
+2021-10-29 22:00:35,202 [main] INFO ebanking - URL is OPened
+2021-10-29 22:04:12,485 [main] INFO ebanking - URL is OPened
+2021-10-29 22:06:52,521 [main] INFO ebanking - URL is OPened
+2021-11-02 12:11:48,591 [main] INFO ebanking - URL is OPened
+2021-11-02 12:12:24,068 [main] INFO ebanking - URL is OPened
+2021-11-02 13:21:56,041 [main] INFO ebanking - URL is OPened
+2021-11-02 13:22:48,343 [main] INFO ebanking - URL is OPened
+2021-11-02 13:27:49,960 [main] INFO ebanking - URL is OPened
+2021-11-02 13:32:55,230 [main] INFO ebanking - URL is OPened
+2021-11-02 13:33:52,142 [main] INFO ebanking - URL is OPened
+2021-11-02 13:37:06,391 [main] INFO ebanking - URL is OPened
+2021-11-02 13:40:50,105 [main] INFO ebanking - URL is OPened
+2021-11-02 13:42:29,187 [main] INFO ebanking - URL is OPened
+2021-11-02 13:58:03,124 [main] INFO ebanking - URL is OPened
+2021-11-02 14:26:00,202 [main] INFO ebanking - URL is OPened
+2021-11-02 14:29:34,548 [main] INFO ebanking - URL is OPened
+2021-11-02 14:59:58,404 [main] INFO ebanking - URL is OPened
+2021-11-02 15:00:08,605 [main] INFO ebanking - Entered UserName
+2021-11-02 15:08:36,149 [main] INFO ebanking - URL is OPened
+2021-11-02 15:08:46,287 [main] INFO ebanking - Entered UserName
+2021-11-02 15:08:46,380 [main] INFO ebanking - Entered Password
+2021-11-02 15:08:46,445 [main] INFO ebanking - LoginTest passed
+2021-11-02 16:04:52,244 [main] INFO ebanking - URL is OPened
+2021-11-02 16:05:02,440 [main] INFO ebanking - Entered UserName
+2021-11-02 16:05:02,544 [main] INFO ebanking - Entered Password
+2021-11-02 16:06:42,676 [main] INFO ebanking - URL is OPened
+2021-11-02 16:06:52,868 [main] INFO ebanking - Entered UserName
+2021-11-02 16:06:52,966 [main] INFO ebanking - Entered Password
+2021-11-02 16:06:53,078 [main] INFO ebanking - LoginTest passed
+2021-11-02 16:53:59,320 [main] INFO ebanking - URL is OPened
+2021-11-02 16:54:09,542 [main] INFO ebanking - Entered UserName
+2021-11-02 16:54:09,650 [main] INFO ebanking - Entered Password
+2021-11-02 16:54:09,721 [main] INFO ebanking - LoginTest passed
+2021-11-02 16:55:33,069 [main] INFO ebanking - URL is OPened
+2021-11-02 16:55:43,255 [main] INFO ebanking - Entered UserName
+2021-11-02 16:55:43,353 [main] INFO ebanking - Entered Password
+2021-11-02 16:55:43,475 [main] INFO ebanking - LoginTest passed
+2021-11-02 16:57:58,892 [main] INFO ebanking - URL is OPened
+2021-11-02 16:58:09,076 [main] INFO ebanking - Entered UserName
+2021-11-02 16:58:09,158 [main] INFO ebanking - Entered Password
+2021-11-02 16:58:09,227 [main] INFO ebanking - LoginTest passed
+2021-11-08 13:12:22,023 [main] INFO OAInsight - URL is OPened
+2021-11-08 13:12:32,687 [main] INFO OAInsight - Entered UserName
+2021-11-08 13:12:32,783 [main] INFO OAInsight - Entered Password
+2021-11-08 13:12:32,860 [main] INFO OAInsight - LoginTest passed
+2021-11-08 13:18:58,161 [main] INFO OAInsight - URL is OPened
+2021-11-08 13:19:08,287 [main] INFO OAInsight - Entered UserName
+2021-11-08 13:19:08,334 [main] INFO OAInsight - Entered Password
+2021-11-08 13:19:08,385 [main] INFO OAInsight - LoginTest passed
+2021-11-08 13:27:29,327 [main] INFO OAInsight - URL is OPened
+2021-11-08 13:27:39,451 [main] INFO OAInsight - Entered UserName
+2021-11-08 13:27:39,501 [main] INFO OAInsight - Entered Password
+2021-11-08 13:27:39,550 [main] INFO OAInsight - LoginTest passed
+2021-11-08 13:35:28,401 [main] INFO OAInsight - URL is OPened
+2021-11-08 13:35:38,527 [main] INFO OAInsight - Entered UserName
+2021-11-08 13:35:38,577 [main] INFO OAInsight - Entered Password
+2021-11-08 13:35:38,627 [main] INFO OAInsight - LoginTest passed
+2021-11-08 14:32:35,716 [main] INFO OAInsight - URL is OPened
+2021-11-08 14:32:46,446 [main] INFO OAInsight - Entered UserName
+2021-11-08 14:32:46,492 [main] INFO OAInsight - Entered Password
+2021-11-08 14:32:46,970 [main] INFO OAInsight - LoginTest passed
+2021-11-08 14:35:43,184 [main] INFO OAInsight - URL is OPened
+2021-11-08 14:35:53,250 [main] INFO OAInsight - Entered UserName
+2021-11-08 14:35:53,269 [main] INFO OAInsight - Entered Password
+2021-11-08 14:35:53,502 [main] INFO OAInsight - LoginTest passed
+2021-11-08 14:41:27,782 [main] INFO OAInsight - URL is OPened
+2021-11-08 14:41:37,865 [main] INFO OAInsight - Entered UserName
+2021-11-08 14:41:37,883 [main] INFO OAInsight - Entered Password
+2021-11-08 14:41:38,132 [main] INFO OAInsight - LoginTest passed
+2021-11-08 14:42:04,246 [main] INFO OAInsight - URL is OPened
+2021-11-08 14:42:14,333 [main] INFO OAInsight - Entered UserName
+2021-11-08 14:42:14,350 [main] INFO OAInsight - Entered Password
+2021-11-08 14:42:14,594 [main] INFO OAInsight - LoginTest passed
+2021-11-08 14:58:27,670 [main] INFO OAInsight - URL is OPened
+2021-11-08 14:58:37,756 [main] INFO OAInsight - Entered UserName
+2021-11-08 14:58:37,771 [main] INFO OAInsight - Entered Password
+2021-11-08 14:58:38,015 [main] INFO OAInsight - LoginTest passed
+2021-11-08 17:28:00,632 [main] INFO OAInsight - URL is OPened
+2021-11-08 17:28:10,901 [main] INFO OAInsight - Entered UserName
+2021-11-08 17:28:10,917 [main] INFO OAInsight - Entered Password
+2021-11-08 17:28:11,208 [main] INFO OAInsight - LoginTest passed
+2021-11-08 17:29:02,378 [main] INFO OAInsight - URL is OPened
+2021-11-08 17:29:12,460 [main] INFO OAInsight - Entered UserName
+2021-11-08 17:29:12,478 [main] INFO OAInsight - Entered Password
+2021-11-08 17:29:12,720 [main] INFO OAInsight - LoginTest passed
+2021-11-08 18:37:46,188 [main] INFO OAInsight - URL is OPened
+2021-11-08 18:37:56,272 [main] INFO OAInsight - Entered UserName
+2021-11-08 18:37:56,289 [main] INFO OAInsight - Entered Password
+2021-11-09 14:54:59,478 [main] INFO OAInsight - username provided
+2021-11-09 14:54:59,787 [main] INFO OAInsight - password provided
+2021-11-09 14:54:59,883 [main] INFO OAInsight - Clicked on login button
+2021-11-09 14:55:00,016 [main] INFO OAInsight - Login passed
+2021-11-09 14:55:02,919 [main] INFO OAInsight - username provided
+2021-11-09 14:55:03,025 [main] INFO OAInsight - password provided
+2021-11-09 14:55:03,106 [main] INFO OAInsight - Clicked on login button
+2021-11-09 14:55:03,122 [main] INFO OAInsight - Login passed
+2021-11-09 14:55:04,345 [main] INFO OAInsight - username provided
+2021-11-09 14:55:04,503 [main] INFO OAInsight - password provided
+2021-11-09 14:55:04,605 [main] INFO OAInsight - Clicked on login button
+2021-11-09 14:55:04,617 [main] INFO OAInsight - Login passed
+2021-11-09 14:55:14,817 [main] INFO OAInsight - username provided
+2021-11-09 14:55:14,879 [main] INFO OAInsight - password provided
+2021-11-09 14:55:14,929 [main] INFO OAInsight - Clicked on login button
+2021-11-09 14:55:14,935 [main] INFO OAInsight - Login passed
+2021-11-09 15:20:33,679 [main] INFO OAInsight - username provided
+2021-11-09 15:20:33,750 [main] INFO OAInsight - password provided
+2021-11-09 15:20:33,797 [main] INFO OAInsight - Clicked on login button
+2021-11-09 15:20:33,811 [main] INFO OAInsight - Login passed
+2021-11-09 15:20:37,251 [main] INFO OAInsight - username provided
+2021-11-09 15:20:37,308 [main] INFO OAInsight - password provided
+2021-11-09 15:20:37,362 [main] INFO OAInsight - Clicked on login button
+2021-11-09 15:20:37,366 [main] INFO OAInsight - Login passed
+2021-11-09 15:20:38,409 [main] INFO OAInsight - username provided
+2021-11-09 15:20:38,462 [main] INFO OAInsight - password provided
+2021-11-09 15:20:38,497 [main] INFO OAInsight - Clicked on login button
+2021-11-09 15:20:38,501 [main] INFO OAInsight - Login passed
+2021-11-09 15:20:48,590 [main] INFO OAInsight - username provided
+2021-11-09 15:20:48,627 [main] INFO OAInsight - password provided
+2021-11-09 15:20:48,651 [main] INFO OAInsight - Clicked on login button
+2021-11-09 15:20:48,655 [main] INFO OAInsight - Login passed
+2021-11-09 15:32:40,967 [main] INFO OAInsight - username provided
+2021-11-09 15:32:41,029 [main] INFO OAInsight - password provided
+2021-11-09 15:32:41,077 [main] INFO OAInsight - Clicked on login button
+2021-11-09 15:32:41,090 [main] INFO OAInsight - Login passed
+2021-11-09 15:32:51,220 [main] INFO OAInsight - username provided
+2021-11-09 15:33:01,308 [main] INFO OAInsight - username provided
+2021-11-09 15:33:11,398 [main] INFO OAInsight - username provided
+2021-11-09 15:38:50,699 [main] INFO OAInsight - username provided
+2021-11-09 15:38:50,756 [main] INFO OAInsight - password provided
+2021-11-09 15:38:50,800 [main] INFO OAInsight - Clicked on login button
+2021-11-09 15:38:50,815 [main] INFO OAInsight - Login passed
+2021-11-09 15:38:53,110 [main] INFO OAInsight - username provided
+2021-11-09 15:38:53,155 [main] INFO OAInsight - password provided
+2021-11-09 15:38:53,191 [main] INFO OAInsight - Clicked on login button
+2021-11-09 15:38:53,194 [main] INFO OAInsight - Login passed
+2021-11-09 15:38:54,238 [main] INFO OAInsight - username provided
+2021-11-09 15:38:54,290 [main] INFO OAInsight - password provided
+2021-11-09 15:38:54,325 [main] INFO OAInsight - Clicked on login button
+2021-11-09 15:38:54,328 [main] INFO OAInsight - Login passed
+2021-11-09 15:39:04,451 [main] INFO OAInsight - username provided
+2021-11-09 15:39:04,501 [main] INFO OAInsight - password provided
+2021-11-09 15:39:04,534 [main] INFO OAInsight - Clicked on login button
+2021-11-09 15:39:04,537 [main] INFO OAInsight - Login passed
+2021-11-09 16:40:25,598 [main] INFO OAInsight - username provided
+2021-11-09 16:40:25,789 [main] INFO OAInsight - password provided
+2021-11-09 16:40:25,833 [main] INFO OAInsight - Clicked on login button
+2021-11-09 16:40:36,246 [main] INFO OAInsight - username provided
+2021-11-09 16:40:46,317 [main] INFO OAInsight - username provided
+2021-11-09 16:40:56,417 [main] INFO OAInsight - username provided
+2021-11-09 16:42:15,701 [main] INFO OAInsight - username provided
+2021-11-09 16:42:15,758 [main] INFO OAInsight - password provided
+2021-11-09 16:42:15,805 [main] INFO OAInsight - Clicked on login button
+2021-11-09 16:42:15,916 [main] INFO OAInsight - username provided
+2021-11-09 16:42:15,954 [main] INFO OAInsight - password provided
+2021-11-09 16:42:15,977 [main] INFO OAInsight - Clicked on login button
+2021-11-09 16:42:16,017 [main] INFO OAInsight - username provided
+2021-11-09 16:42:16,048 [main] INFO OAInsight - password provided
+2021-11-09 16:42:16,097 [main] INFO OAInsight - Clicked on login button
+2021-11-09 16:42:16,150 [main] INFO OAInsight - username provided
+2021-11-09 16:42:16,186 [main] INFO OAInsight - password provided
+2021-11-09 16:42:16,213 [main] INFO OAInsight - Clicked on login button
+2021-11-09 16:43:08,495 [main] INFO OAInsight - username provided
+2021-11-09 16:43:08,551 [main] INFO OAInsight - password provided
+2021-11-09 16:43:08,594 [main] INFO OAInsight - Clicked on login button
+2021-11-09 16:43:08,605 [main] INFO OAInsight - Login passed
+2021-11-09 16:43:10,723 [main] INFO OAInsight - username provided
+2021-11-09 16:43:10,773 [main] INFO OAInsight - password provided
+2021-11-09 16:43:10,804 [main] INFO OAInsight - Clicked on login button
+2021-11-09 16:43:10,807 [main] INFO OAInsight - Login passed
+2021-11-09 16:43:11,853 [main] INFO OAInsight - username provided
+2021-11-09 16:43:11,908 [main] INFO OAInsight - password provided
+2021-11-09 16:43:11,943 [main] INFO OAInsight - Clicked on login button
+2021-11-09 16:43:11,946 [main] INFO OAInsight - Login passed
+2021-11-09 16:43:22,065 [main] INFO OAInsight - username provided
+2021-11-09 16:43:22,096 [main] INFO OAInsight - password provided
+2021-11-09 16:43:22,119 [main] INFO OAInsight - Clicked on login button
+2021-11-09 16:43:22,123 [main] INFO OAInsight - Login passed
+2021-11-09 16:44:37,515 [main] INFO OAInsight - username provided
+2021-11-09 16:44:37,571 [main] INFO OAInsight - password provided
+2021-11-09 16:44:37,615 [main] INFO OAInsight - Clicked on login button
+2021-11-09 16:44:37,627 [main] INFO OAInsight - Login passed
+2021-11-09 16:44:39,809 [main] INFO OAInsight - username provided
+2021-11-09 16:44:39,860 [main] INFO OAInsight - password provided
+2021-11-09 16:44:39,893 [main] INFO OAInsight - Clicked on login button
+2021-11-09 16:44:39,896 [main] INFO OAInsight - Login passed
+2021-11-09 16:44:40,919 [main] INFO OAInsight - username provided
+2021-11-09 16:44:40,962 [main] INFO OAInsight - password provided
+2021-11-09 16:44:41,000 [main] INFO OAInsight - Clicked on login button
+2021-11-09 16:44:41,004 [main] INFO OAInsight - Login passed
+2021-11-09 16:44:51,101 [main] INFO OAInsight - username provided
+2021-11-09 16:44:51,131 [main] INFO OAInsight - password provided
+2021-11-09 16:44:51,155 [main] INFO OAInsight - Clicked on login button
+2021-11-09 16:44:51,158 [main] INFO OAInsight - Login passed
+2021-11-09 17:00:19,543 [main] INFO OAInsight - username provided
+2021-11-09 17:00:19,598 [main] INFO OAInsight - password provided
+2021-11-09 17:00:19,643 [main] INFO OAInsight - Clicked on login button
+2021-11-09 17:00:29,775 [main] INFO OAInsight - username provided
+2021-11-09 17:00:39,879 [main] INFO OAInsight - username provided
+2021-11-09 17:00:49,985 [main] INFO OAInsight - username provided
+2021-11-09 18:06:10,278 [main] INFO OAInsight - username provided
+2021-11-09 18:06:10,340 [main] INFO OAInsight - password provided
+2021-11-09 18:06:10,386 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:06:10,452 [main] INFO OAInsight - username provided
+2021-11-09 18:06:10,484 [main] INFO OAInsight - password provided
+2021-11-09 18:06:10,508 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:06:10,544 [main] INFO OAInsight - username provided
+2021-11-09 18:06:10,574 [main] INFO OAInsight - password provided
+2021-11-09 18:06:10,596 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:06:10,644 [main] INFO OAInsight - username provided
+2021-11-09 18:06:10,676 [main] INFO OAInsight - password provided
+2021-11-09 18:06:10,703 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:12:59,066 [main] INFO OAInsight - username provided
+2021-11-09 18:12:59,121 [main] INFO OAInsight - password provided
+2021-11-09 18:12:59,169 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:12:59,248 [main] INFO OAInsight - username provided
+2021-11-09 18:12:59,281 [main] INFO OAInsight - password provided
+2021-11-09 18:12:59,303 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:12:59,344 [main] INFO OAInsight - username provided
+2021-11-09 18:12:59,375 [main] INFO OAInsight - password provided
+2021-11-09 18:12:59,396 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:12:59,449 [main] INFO OAInsight - username provided
+2021-11-09 18:12:59,483 [main] INFO OAInsight - password provided
+2021-11-09 18:12:59,504 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:14:55,209 [main] INFO OAInsight - username provided
+2021-11-09 18:14:55,263 [main] INFO OAInsight - password provided
+2021-11-09 18:14:55,305 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:14:55,359 [main] INFO OAInsight - Login passed
+2021-11-09 18:14:55,434 [main] INFO OAInsight - username provided
+2021-11-09 18:14:55,468 [main] INFO OAInsight - password provided
+2021-11-09 18:14:55,487 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:14:55,491 [main] INFO OAInsight - Login passed
+2021-11-09 18:14:55,534 [main] INFO OAInsight - username provided
+2021-11-09 18:14:55,566 [main] INFO OAInsight - password provided
+2021-11-09 18:14:55,588 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:14:55,592 [main] INFO OAInsight - Login passed
+2021-11-09 18:14:55,645 [main] INFO OAInsight - username provided
+2021-11-09 18:14:55,679 [main] INFO OAInsight - password provided
+2021-11-09 18:14:55,700 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:14:55,702 [main] INFO OAInsight - Login passed
+2021-11-09 18:49:07,239 [main] INFO OAInsight - username provided
+2021-11-09 18:49:07,296 [main] INFO OAInsight - password provided
+2021-11-09 18:49:07,341 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:49:07,355 [main] INFO OAInsight - Login passed
+2021-11-09 18:49:07,440 [main] INFO OAInsight - username provided
+2021-11-09 18:49:07,475 [main] INFO OAInsight - password provided
+2021-11-09 18:49:07,499 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:49:07,502 [main] INFO OAInsight - Login passed
+2021-11-09 18:49:07,544 [main] INFO OAInsight - username provided
+2021-11-09 18:49:07,575 [main] INFO OAInsight - password provided
+2021-11-09 18:49:07,596 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:49:07,599 [main] INFO OAInsight - Login passed
+2021-11-09 18:49:07,653 [main] INFO OAInsight - username provided
+2021-11-09 18:49:07,687 [main] INFO OAInsight - password provided
+2021-11-09 18:49:07,708 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:49:07,710 [main] INFO OAInsight - Login passed
+2021-11-09 18:50:40,566 [main] INFO OAInsight - username provided
+2021-11-09 18:50:40,624 [main] INFO OAInsight - password provided
+2021-11-09 18:50:40,668 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:50:40,680 [main] INFO OAInsight - Login passed
+2021-11-09 18:50:40,760 [main] INFO OAInsight - username provided
+2021-11-09 18:50:40,801 [main] INFO OAInsight - password provided
+2021-11-09 18:50:40,826 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:50:40,828 [main] INFO OAInsight - Login passed
+2021-11-09 18:50:40,868 [main] INFO OAInsight - username provided
+2021-11-09 18:50:40,898 [main] INFO OAInsight - password provided
+2021-11-09 18:50:40,920 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:50:40,923 [main] INFO OAInsight - Login passed
+2021-11-09 18:50:40,989 [main] INFO OAInsight - username provided
+2021-11-09 18:50:41,031 [main] INFO OAInsight - password provided
+2021-11-09 18:50:41,060 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:50:41,063 [main] INFO OAInsight - Login passed
+2021-11-09 18:52:58,141 [main] INFO OAInsight - username provided
+2021-11-09 18:52:58,193 [main] INFO OAInsight - password provided
+2021-11-09 18:52:58,233 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:52:58,247 [main] INFO OAInsight - Login passed
+2021-11-09 18:52:58,326 [main] INFO OAInsight - username provided
+2021-11-09 18:52:58,361 [main] INFO OAInsight - password provided
+2021-11-09 18:52:58,386 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:52:58,389 [main] INFO OAInsight - Login passed
+2021-11-09 18:52:58,436 [main] INFO OAInsight - username provided
+2021-11-09 18:52:58,463 [main] INFO OAInsight - password provided
+2021-11-09 18:52:58,486 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:52:58,488 [main] INFO OAInsight - Login passed
+2021-11-09 18:52:58,539 [main] INFO OAInsight - username provided
+2021-11-09 18:52:58,574 [main] INFO OAInsight - password provided
+2021-11-09 18:52:58,595 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:52:58,597 [main] INFO OAInsight - Login passed
+2021-11-09 18:55:24,981 [main] INFO OAInsight - username provided
+2021-11-09 18:55:25,035 [main] INFO OAInsight - password provided
+2021-11-09 18:55:25,077 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:55:25,089 [main] INFO OAInsight - Login passed
+2021-11-09 18:55:25,171 [main] INFO OAInsight - username provided
+2021-11-09 18:55:25,209 [main] INFO OAInsight - password provided
+2021-11-09 18:55:25,231 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:55:25,234 [main] INFO OAInsight - Login passed
+2021-11-09 18:55:25,279 [main] INFO OAInsight - username provided
+2021-11-09 18:55:25,309 [main] INFO OAInsight - password provided
+2021-11-09 18:55:25,330 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:55:25,332 [main] INFO OAInsight - Login passed
+2021-11-09 18:55:25,383 [main] INFO OAInsight - username provided
+2021-11-09 18:55:25,420 [main] INFO OAInsight - password provided
+2021-11-09 18:55:25,440 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:55:25,443 [main] INFO OAInsight - Login passed
+2021-11-09 18:59:31,691 [main] INFO OAInsight - username provided
+2021-11-09 18:59:31,747 [main] INFO OAInsight - password provided
+2021-11-09 18:59:31,792 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:59:31,805 [main] INFO OAInsight - Login passed
+2021-11-09 18:59:31,887 [main] INFO OAInsight - username provided
+2021-11-09 18:59:31,925 [main] INFO OAInsight - password provided
+2021-11-09 18:59:31,952 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:59:31,955 [main] INFO OAInsight - Login passed
+2021-11-09 18:59:32,003 [main] INFO OAInsight - username provided
+2021-11-09 18:59:32,032 [main] INFO OAInsight - password provided
+2021-11-09 18:59:32,053 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:59:32,056 [main] INFO OAInsight - Login passed
+2021-11-09 18:59:32,110 [main] INFO OAInsight - username provided
+2021-11-09 18:59:32,144 [main] INFO OAInsight - password provided
+2021-11-09 18:59:32,168 [main] INFO OAInsight - Clicked on login button
+2021-11-09 18:59:32,171 [main] INFO OAInsight - Login passed
+2021-11-09 19:06:59,375 [main] INFO OAInsight - username provided
+2021-11-09 19:06:59,431 [main] INFO OAInsight - password provided
+2021-11-09 19:06:59,475 [main] INFO OAInsight - Clicked on login button
+2021-11-09 19:06:59,491 [main] INFO OAInsight - Login passed
+2021-11-09 19:06:59,571 [main] INFO OAInsight - username provided
+2021-11-09 19:06:59,607 [main] INFO OAInsight - password provided
+2021-11-09 19:06:59,630 [main] INFO OAInsight - Clicked on login button
+2021-11-09 19:06:59,633 [main] INFO OAInsight - Login passed
+2021-11-09 19:06:59,683 [main] INFO OAInsight - username provided
+2021-11-09 19:06:59,712 [main] INFO OAInsight - password provided
+2021-11-09 19:06:59,733 [main] INFO OAInsight - Clicked on login button
+2021-11-09 19:06:59,736 [main] INFO OAInsight - Login passed
+2021-11-09 19:06:59,792 [main] INFO OAInsight - username provided
+2021-11-09 19:06:59,831 [main] INFO OAInsight - password provided
+2021-11-09 19:06:59,852 [main] INFO OAInsight - Clicked on login button
+2021-11-09 19:06:59,855 [main] INFO OAInsight - Login passed
+2021-11-09 20:08:16,330 [main] INFO OAInsight - username provided
+2021-11-09 20:08:16,387 [main] INFO OAInsight - password provided
+2021-11-09 20:08:16,426 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:08:16,440 [main] INFO OAInsight - Login passed
+2021-11-09 20:08:16,512 [main] INFO OAInsight - username provided
+2021-11-09 20:08:16,549 [main] INFO OAInsight - password provided
+2021-11-09 20:08:16,574 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:08:16,577 [main] INFO OAInsight - Login passed
+2021-11-09 20:08:16,633 [main] INFO OAInsight - username provided
+2021-11-09 20:08:16,666 [main] INFO OAInsight - password provided
+2021-11-09 20:08:16,689 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:08:16,692 [main] INFO OAInsight - Login passed
+2021-11-09 20:08:16,765 [main] INFO OAInsight - username provided
+2021-11-09 20:08:16,799 [main] INFO OAInsight - password provided
+2021-11-09 20:08:16,821 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:08:16,823 [main] INFO OAInsight - Login passed
+2021-11-09 20:08:55,417 [main] INFO OAInsight - username provided
+2021-11-09 20:08:55,473 [main] INFO OAInsight - password provided
+2021-11-09 20:08:55,518 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:08:55,530 [main] INFO OAInsight - Login passed
+2021-11-09 20:08:57,798 [main] INFO OAInsight - username provided
+2021-11-09 20:08:57,853 [main] INFO OAInsight - password provided
+2021-11-09 20:08:57,886 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:08:57,889 [main] INFO OAInsight - Login passed
+2021-11-09 20:08:58,944 [main] INFO OAInsight - username provided
+2021-11-09 20:08:58,995 [main] INFO OAInsight - password provided
+2021-11-09 20:08:59,028 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:08:59,031 [main] INFO OAInsight - Login passed
+2021-11-09 20:09:09,097 [main] INFO OAInsight - username provided
+2021-11-09 20:09:09,129 [main] INFO OAInsight - password provided
+2021-11-09 20:09:09,150 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:09:09,153 [main] INFO OAInsight - Login passed
+2021-11-09 20:09:44,814 [main] INFO OAInsight - username provided
+2021-11-09 20:09:44,868 [main] INFO OAInsight - password provided
+2021-11-09 20:09:44,913 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:09:44,926 [main] INFO OAInsight - Login passed
+2021-11-09 20:09:47,011 [main] INFO OAInsight - username provided
+2021-11-09 20:09:47,057 [main] INFO OAInsight - password provided
+2021-11-09 20:09:47,092 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:09:47,095 [main] INFO OAInsight - Login passed
+2021-11-09 20:09:48,198 [main] INFO OAInsight - username provided
+2021-11-09 20:09:48,243 [main] INFO OAInsight - password provided
+2021-11-09 20:09:48,278 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:09:48,281 [main] INFO OAInsight - Login passed
+2021-11-09 20:09:58,381 [main] INFO OAInsight - username provided
+2021-11-09 20:09:58,429 [main] INFO OAInsight - password provided
+2021-11-09 20:09:58,464 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:09:58,467 [main] INFO OAInsight - Login passed
+2021-11-09 20:11:54,413 [main] INFO OAInsight - username provided
+2021-11-09 20:11:54,465 [main] INFO OAInsight - password provided
+2021-11-09 20:11:54,511 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:11:54,523 [main] INFO OAInsight - Login passed
+2021-11-09 20:11:56,738 [main] INFO OAInsight - username provided
+2021-11-09 20:11:56,793 [main] INFO OAInsight - password provided
+2021-11-09 20:11:56,837 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:11:56,840 [main] INFO OAInsight - Login passed
+2021-11-09 20:11:57,880 [main] INFO OAInsight - username provided
+2021-11-09 20:11:57,930 [main] INFO OAInsight - password provided
+2021-11-09 20:11:57,965 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:11:57,968 [main] INFO OAInsight - Login passed
+2021-11-09 20:12:08,061 [main] INFO OAInsight - username provided
+2021-11-09 20:12:08,093 [main] INFO OAInsight - password provided
+2021-11-09 20:12:08,115 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:12:08,118 [main] INFO OAInsight - Login passed
+2021-11-09 20:33:59,460 [main] INFO OAInsight - username provided
+2021-11-09 20:33:59,519 [main] INFO OAInsight - password provided
+2021-11-09 20:33:59,564 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:33:59,576 [main] INFO OAInsight - Login passed
+2021-11-09 20:34:01,894 [main] INFO OAInsight - username provided
+2021-11-09 20:34:01,944 [main] INFO OAInsight - password provided
+2021-11-09 20:34:01,977 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:34:01,981 [main] INFO OAInsight - Login passed
+2021-11-09 20:34:03,023 [main] INFO OAInsight - username provided
+2021-11-09 20:34:03,073 [main] INFO OAInsight - password provided
+2021-11-09 20:34:03,115 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:34:03,118 [main] INFO OAInsight - Login passed
+2021-11-09 20:34:13,219 [main] INFO OAInsight - username provided
+2021-11-09 20:34:13,251 [main] INFO OAInsight - password provided
+2021-11-09 20:34:13,273 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:34:13,276 [main] INFO OAInsight - Login passed
+2021-11-09 20:35:24,934 [main] INFO OAInsight - username provided
+2021-11-09 20:35:24,986 [main] INFO OAInsight - password provided
+2021-11-09 20:35:25,029 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:35:25,039 [main] INFO OAInsight - Login passed
+2021-11-09 20:35:27,140 [main] INFO OAInsight - username provided
+2021-11-09 20:35:27,190 [main] INFO OAInsight - password provided
+2021-11-09 20:35:27,228 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:35:27,232 [main] INFO OAInsight - Login passed
+2021-11-09 20:35:28,276 [main] INFO OAInsight - username provided
+2021-11-09 20:35:28,327 [main] INFO OAInsight - password provided
+2021-11-09 20:35:28,360 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:35:28,363 [main] INFO OAInsight - Login passed
+2021-11-09 20:35:38,464 [main] INFO OAInsight - username provided
+2021-11-09 20:35:38,498 [main] INFO OAInsight - password provided
+2021-11-09 20:35:38,521 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:35:38,524 [main] INFO OAInsight - Login passed
+2021-11-09 20:43:16,411 [main] INFO OAInsight - username provided
+2021-11-09 20:43:16,467 [main] INFO OAInsight - password provided
+2021-11-09 20:43:16,510 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:43:16,523 [main] INFO OAInsight - Login passed
+2021-11-09 20:43:18,760 [main] INFO OAInsight - username provided
+2021-11-09 20:43:18,805 [main] INFO OAInsight - password provided
+2021-11-09 20:43:18,841 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:43:18,844 [main] INFO OAInsight - Login passed
+2021-11-09 20:43:19,889 [main] INFO OAInsight - username provided
+2021-11-09 20:43:19,938 [main] INFO OAInsight - password provided
+2021-11-09 20:43:19,976 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:43:19,979 [main] INFO OAInsight - Login passed
+2021-11-09 20:43:30,071 [main] INFO OAInsight - username provided
+2021-11-09 20:43:30,094 [main] INFO OAInsight - password provided
+2021-11-09 20:43:30,116 [main] INFO OAInsight - Clicked on login button
+2021-11-09 20:43:30,120 [main] INFO OAInsight - Login passed
+2021-11-09 22:02:35,091 [main] INFO OAInsight - username provided
+2021-11-09 22:02:35,158 [main] INFO OAInsight - password provided
+2021-11-09 22:02:35,209 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:02:35,220 [main] INFO OAInsight - Login passed
+2021-11-09 22:02:37,496 [main] INFO OAInsight - username provided
+2021-11-09 22:02:37,544 [main] INFO OAInsight - password provided
+2021-11-09 22:02:37,576 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:02:37,579 [main] INFO OAInsight - Login passed
+2021-11-09 22:02:38,618 [main] INFO OAInsight - username provided
+2021-11-09 22:02:38,665 [main] INFO OAInsight - password provided
+2021-11-09 22:02:38,705 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:02:38,708 [main] INFO OAInsight - Login passed
+2021-11-09 22:02:48,797 [main] INFO OAInsight - username provided
+2021-11-09 22:02:48,824 [main] INFO OAInsight - password provided
+2021-11-09 22:02:48,847 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:02:48,850 [main] INFO OAInsight - Login passed
+2021-11-09 22:10:55,237 [main] INFO OAInsight - username provided
+2021-11-09 22:10:55,289 [main] INFO OAInsight - password provided
+2021-11-09 22:10:55,332 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:10:55,347 [main] INFO OAInsight - Login passed
+2021-11-09 22:10:57,604 [main] INFO OAInsight - username provided
+2021-11-09 22:10:57,657 [main] INFO OAInsight - password provided
+2021-11-09 22:10:57,689 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:10:57,692 [main] INFO OAInsight - Login passed
+2021-11-09 22:10:58,733 [main] INFO OAInsight - username provided
+2021-11-09 22:10:58,778 [main] INFO OAInsight - password provided
+2021-11-09 22:10:58,812 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:10:58,817 [main] INFO OAInsight - Login passed
+2021-11-09 22:11:08,896 [main] INFO OAInsight - username provided
+2021-11-09 22:11:08,943 [main] INFO OAInsight - password provided
+2021-11-09 22:11:08,982 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:11:08,985 [main] INFO OAInsight - Login passed
+2021-11-09 22:13:32,244 [main] INFO OAInsight - username provided
+2021-11-09 22:13:32,307 [main] INFO OAInsight - password provided
+2021-11-09 22:13:32,350 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:13:32,363 [main] INFO OAInsight - Login passed
+2021-11-09 22:13:34,540 [main] INFO OAInsight - username provided
+2021-11-09 22:13:34,585 [main] INFO OAInsight - password provided
+2021-11-09 22:13:34,618 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:13:34,622 [main] INFO OAInsight - Login passed
+2021-11-09 22:13:35,663 [main] INFO OAInsight - username provided
+2021-11-09 22:13:35,713 [main] INFO OAInsight - password provided
+2021-11-09 22:13:35,749 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:13:35,752 [main] INFO OAInsight - Login passed
+2021-11-09 22:13:45,825 [main] INFO OAInsight - username provided
+2021-11-09 22:13:45,848 [main] INFO OAInsight - password provided
+2021-11-09 22:13:45,872 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:13:45,876 [main] INFO OAInsight - Login passed
+2021-11-09 22:15:44,960 [main] INFO OAInsight - username provided
+2021-11-09 22:15:45,018 [main] INFO OAInsight - password provided
+2021-11-09 22:15:45,060 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:15:45,074 [main] INFO OAInsight - Login passed
+2021-11-09 22:15:47,345 [main] INFO OAInsight - username provided
+2021-11-09 22:15:47,394 [main] INFO OAInsight - password provided
+2021-11-09 22:15:47,436 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:15:47,439 [main] INFO OAInsight - Login passed
+2021-11-09 22:15:48,480 [main] INFO OAInsight - username provided
+2021-11-09 22:15:48,528 [main] INFO OAInsight - password provided
+2021-11-09 22:15:48,561 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:15:48,565 [main] INFO OAInsight - Login passed
+2021-11-09 22:15:58,641 [main] INFO OAInsight - username provided
+2021-11-09 22:15:58,667 [main] INFO OAInsight - password provided
+2021-11-09 22:15:58,690 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:15:58,693 [main] INFO OAInsight - Login passed
+2021-11-09 22:19:23,246 [main] INFO OAInsight - username provided
+2021-11-09 22:19:23,298 [main] INFO OAInsight - password provided
+2021-11-09 22:19:23,340 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:19:23,353 [main] INFO OAInsight - Login passed
+2021-11-09 22:19:25,427 [main] INFO OAInsight - username provided
+2021-11-09 22:19:25,478 [main] INFO OAInsight - password provided
+2021-11-09 22:19:25,511 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:19:25,513 [main] INFO OAInsight - Login passed
+2021-11-09 22:19:26,561 [main] INFO OAInsight - username provided
+2021-11-09 22:19:26,616 [main] INFO OAInsight - password provided
+2021-11-09 22:19:26,649 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:19:26,652 [main] INFO OAInsight - Login passed
+2021-11-09 22:19:36,737 [main] INFO OAInsight - username provided
+2021-11-09 22:19:36,764 [main] INFO OAInsight - password provided
+2021-11-09 22:19:36,786 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:19:36,790 [main] INFO OAInsight - Login passed
+2021-11-09 22:21:58,519 [main] INFO OAInsight - username provided
+2021-11-09 22:21:58,568 [main] INFO OAInsight - password provided
+2021-11-09 22:21:58,612 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:21:58,624 [main] INFO OAInsight - Login passed
+2021-11-09 22:21:58,696 [main] INFO OAInsight - username provided
+2021-11-09 22:21:58,728 [main] INFO OAInsight - password provided
+2021-11-09 22:21:58,752 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:21:58,755 [main] INFO OAInsight - Login passed
+2021-11-09 22:21:58,797 [main] INFO OAInsight - username provided
+2021-11-09 22:21:58,827 [main] INFO OAInsight - password provided
+2021-11-09 22:21:58,846 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:21:58,850 [main] INFO OAInsight - Login passed
+2021-11-09 22:21:58,880 [main] INFO OAInsight - username provided
+2021-11-09 22:21:58,912 [main] INFO OAInsight - password provided
+2021-11-09 22:21:58,934 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:21:58,937 [main] INFO OAInsight - Login passed
+2021-11-09 22:23:20,937 [main] INFO OAInsight - username provided
+2021-11-09 22:23:20,992 [main] INFO OAInsight - password provided
+2021-11-09 22:23:21,035 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:23:21,048 [main] INFO OAInsight - Login passed
+2021-11-09 22:23:23,122 [main] INFO OAInsight - username provided
+2021-11-09 22:23:23,175 [main] INFO OAInsight - password provided
+2021-11-09 22:23:23,208 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:23:23,213 [main] INFO OAInsight - Login passed
+2021-11-09 22:23:24,240 [main] INFO OAInsight - username provided
+2021-11-09 22:23:24,292 [main] INFO OAInsight - password provided
+2021-11-09 22:23:24,325 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:23:24,329 [main] INFO OAInsight - Login passed
+2021-11-09 22:23:34,431 [main] INFO OAInsight - username provided
+2021-11-09 22:23:34,473 [main] INFO OAInsight - password provided
+2021-11-09 22:23:34,513 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:23:34,516 [main] INFO OAInsight - Login passed
+2021-11-09 22:26:40,316 [main] INFO OAInsight - username provided
+2021-11-09 22:26:40,371 [main] INFO OAInsight - password provided
+2021-11-09 22:26:40,416 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:26:40,429 [main] INFO OAInsight - Login passed
+2021-11-09 22:26:42,623 [main] INFO OAInsight - username provided
+2021-11-09 22:26:42,667 [main] INFO OAInsight - password provided
+2021-11-09 22:26:42,701 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:26:42,705 [main] INFO OAInsight - Login passed
+2021-11-09 22:26:43,732 [main] INFO OAInsight - username provided
+2021-11-09 22:26:43,779 [main] INFO OAInsight - password provided
+2021-11-09 22:26:43,816 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:26:43,819 [main] INFO OAInsight - Login passed
+2021-11-09 22:26:53,888 [main] INFO OAInsight - username provided
+2021-11-09 22:26:53,914 [main] INFO OAInsight - password provided
+2021-11-09 22:26:53,939 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:26:53,942 [main] INFO OAInsight - Login passed
+2021-11-09 22:28:38,948 [main] INFO OAInsight - username provided
+2021-11-09 22:28:39,001 [main] INFO OAInsight - password provided
+2021-11-09 22:28:39,042 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:28:39,057 [main] INFO OAInsight - Login passed
+2021-11-09 22:28:41,243 [main] INFO OAInsight - username provided
+2021-11-09 22:28:41,290 [main] INFO OAInsight - password provided
+2021-11-09 22:28:41,328 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:28:41,333 [main] INFO OAInsight - Login passed
+2021-11-09 22:28:42,383 [main] INFO OAInsight - username provided
+2021-11-09 22:28:42,432 [main] INFO OAInsight - password provided
+2021-11-09 22:28:42,469 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:28:42,472 [main] INFO OAInsight - Login passed
+2021-11-09 22:28:52,583 [main] INFO OAInsight - username provided
+2021-11-09 22:28:52,630 [main] INFO OAInsight - password provided
+2021-11-09 22:28:52,664 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:28:52,668 [main] INFO OAInsight - Login passed
+2021-11-09 22:30:05,971 [main] INFO OAInsight - username provided
+2021-11-09 22:30:06,030 [main] INFO OAInsight - password provided
+2021-11-09 22:30:06,078 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:30:06,093 [main] INFO OAInsight - Login passed
+2021-11-09 22:30:08,744 [main] INFO OAInsight - username provided
+2021-11-09 22:30:08,791 [main] INFO OAInsight - password provided
+2021-11-09 22:30:08,830 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:30:08,835 [main] INFO OAInsight - Login passed
+2021-11-09 22:30:10,202 [main] INFO OAInsight - username provided
+2021-11-09 22:30:10,244 [main] INFO OAInsight - password provided
+2021-11-09 22:30:10,283 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:30:10,287 [main] INFO OAInsight - Login passed
+2021-11-09 22:30:20,393 [main] INFO OAInsight - username provided
+2021-11-09 22:30:20,438 [main] INFO OAInsight - password provided
+2021-11-09 22:30:20,476 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:30:20,479 [main] INFO OAInsight - Login passed
+2021-11-09 22:31:49,867 [main] INFO OAInsight - username provided
+2021-11-09 22:31:49,928 [main] INFO OAInsight - password provided
+2021-11-09 22:31:49,978 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:31:49,991 [main] INFO OAInsight - Login passed
+2021-11-09 22:31:52,199 [main] INFO OAInsight - username provided
+2021-11-09 22:31:52,254 [main] INFO OAInsight - password provided
+2021-11-09 22:31:52,285 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:31:52,289 [main] INFO OAInsight - Login passed
+2021-11-09 22:31:53,326 [main] INFO OAInsight - username provided
+2021-11-09 22:31:53,371 [main] INFO OAInsight - password provided
+2021-11-09 22:31:53,404 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:31:53,407 [main] INFO OAInsight - Login passed
+2021-11-09 22:32:03,497 [main] INFO OAInsight - username provided
+2021-11-09 22:32:03,526 [main] INFO OAInsight - password provided
+2021-11-09 22:32:03,548 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:32:03,551 [main] INFO OAInsight - Login passed
+2021-11-09 22:33:07,152 [main] INFO OAInsight - username provided
+2021-11-09 22:33:07,207 [main] INFO OAInsight - password provided
+2021-11-09 22:33:07,247 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:33:07,260 [main] INFO OAInsight - Login passed
+2021-11-09 22:33:09,396 [main] INFO OAInsight - username provided
+2021-11-09 22:33:09,444 [main] INFO OAInsight - password provided
+2021-11-09 22:33:09,478 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:33:09,481 [main] INFO OAInsight - Login passed
+2021-11-09 22:33:10,527 [main] INFO OAInsight - username provided
+2021-11-09 22:33:10,575 [main] INFO OAInsight - password provided
+2021-11-09 22:33:10,610 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:33:10,612 [main] INFO OAInsight - Login passed
+2021-11-09 22:33:20,697 [main] INFO OAInsight - username provided
+2021-11-09 22:33:20,741 [main] INFO OAInsight - password provided
+2021-11-09 22:33:20,777 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:33:20,780 [main] INFO OAInsight - Login passed
+2021-11-09 22:40:08,772 [main] INFO OAInsight - username provided
+2021-11-09 22:40:08,828 [main] INFO OAInsight - password provided
+2021-11-09 22:40:08,871 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:40:08,883 [main] INFO OAInsight - Login passed
+2021-11-09 22:40:11,335 [main] INFO OAInsight - username provided
+2021-11-09 22:40:11,380 [main] INFO OAInsight - password provided
+2021-11-09 22:40:11,412 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:40:11,418 [main] INFO OAInsight - Login passed
+2021-11-09 22:41:46,397 [main] INFO OAInsight - username provided
+2021-11-09 22:41:46,454 [main] INFO OAInsight - password provided
+2021-11-09 22:41:46,498 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:41:46,507 [main] INFO OAInsight - Login passed
+2021-11-09 22:41:48,695 [main] INFO OAInsight - username provided
+2021-11-09 22:41:48,738 [main] INFO OAInsight - password provided
+2021-11-09 22:41:48,776 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:41:48,780 [main] INFO OAInsight - Login passed
+2021-11-09 22:41:49,827 [main] INFO OAInsight - username provided
+2021-11-09 22:41:49,877 [main] INFO OAInsight - password provided
+2021-11-09 22:41:49,913 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:41:49,917 [main] INFO OAInsight - Login passed
+2021-11-09 22:51:52,543 [main] INFO OAInsight - username provided
+2021-11-09 22:51:52,649 [main] INFO OAInsight - password provided
+2021-11-09 22:51:52,708 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:51:52,723 [main] INFO OAInsight - Login passed
+2021-11-09 22:51:53,222 [main] INFO OAInsight - username provided
+2021-11-09 22:51:53,280 [main] INFO OAInsight - password provided
+2021-11-09 22:51:53,321 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:51:53,327 [main] INFO OAInsight - Login passed
+2021-11-09 22:51:53,742 [main] INFO OAInsight - username provided
+2021-11-09 22:51:53,792 [main] INFO OAInsight - password provided
+2021-11-09 22:51:53,832 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:51:53,838 [main] INFO OAInsight - Login passed
+2021-11-09 22:53:33,668 [main] INFO OAInsight - username provided
+2021-11-09 22:53:33,765 [main] INFO OAInsight - password provided
+2021-11-09 22:53:33,826 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:53:33,842 [main] INFO OAInsight - Login passed
+2021-11-09 22:53:44,567 [main] INFO OAInsight - username provided
+2021-11-09 22:53:44,669 [main] INFO OAInsight - password provided
+2021-11-09 22:53:44,737 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:53:44,745 [main] INFO OAInsight - Login passed
+2021-11-09 22:53:55,350 [main] INFO OAInsight - username provided
+2021-11-09 22:53:55,425 [main] INFO OAInsight - password provided
+2021-11-09 22:53:55,482 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:53:55,487 [main] INFO OAInsight - Login passed
+2021-11-09 22:55:28,433 [main] INFO OAInsight - username provided
+2021-11-09 22:55:28,525 [main] INFO OAInsight - password provided
+2021-11-09 22:55:28,603 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:55:28,625 [main] INFO OAInsight - Login passed
+2021-11-09 22:55:30,941 [main] INFO OAInsight - username provided
+2021-11-09 22:55:30,996 [main] INFO OAInsight - password provided
+2021-11-09 22:55:31,039 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:55:31,044 [main] INFO OAInsight - Login passed
+2021-11-09 22:55:33,257 [main] INFO OAInsight - username provided
+2021-11-09 22:55:33,331 [main] INFO OAInsight - password provided
+2021-11-09 22:55:33,389 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:55:33,396 [main] INFO OAInsight - Login passed
+2021-11-09 22:58:52,596 [main] INFO OAInsight - username provided
+2021-11-09 22:58:52,664 [main] INFO OAInsight - password provided
+2021-11-09 22:58:52,718 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:58:52,733 [main] INFO OAInsight - Login passed
+2021-11-09 22:58:55,460 [main] INFO OAInsight - username provided
+2021-11-09 22:58:55,512 [main] INFO OAInsight - password provided
+2021-11-09 22:58:55,557 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:58:55,563 [main] INFO OAInsight - Login passed
+2021-11-09 22:58:57,753 [main] INFO OAInsight - username provided
+2021-11-09 22:58:57,811 [main] INFO OAInsight - password provided
+2021-11-09 22:58:57,847 [main] INFO OAInsight - Clicked on login button
+2021-11-09 22:58:57,851 [main] INFO OAInsight - Login passed
+2021-11-10 12:09:36,634 [main] INFO OAInsight - username provided
+2021-11-10 12:09:36,764 [main] INFO OAInsight - password provided
+2021-11-10 12:09:36,807 [main] INFO OAInsight - Clicked on login button
+2021-11-10 12:09:47,003 [main] INFO OAInsight - username provided
+2021-11-10 12:09:57,100 [main] INFO OAInsight - username provided
+2021-11-10 12:19:44,055 [main] INFO OAInsight - username provided
+2021-11-10 12:19:44,107 [main] INFO OAInsight - password provided
+2021-11-10 12:19:44,154 [main] INFO OAInsight - Clicked on login button
+2021-11-10 12:19:44,227 [main] INFO OAInsight - username provided
+2021-11-10 12:19:44,265 [main] INFO OAInsight - password provided
+2021-11-10 12:19:44,288 [main] INFO OAInsight - Clicked on login button
+2021-11-10 12:19:44,328 [main] INFO OAInsight - username provided
+2021-11-10 12:19:44,364 [main] INFO OAInsight - password provided
+2021-11-10 12:19:44,384 [main] INFO OAInsight - Clicked on login button
+2021-11-10 13:31:54,441 [main] INFO OAInsight - username provided
+2021-11-10 13:31:54,497 [main] INFO OAInsight - password provided
+2021-11-10 13:31:54,545 [main] INFO OAInsight - Clicked on login button
+2021-11-10 13:31:54,719 [main] INFO OAInsight - username provided
+2021-11-10 13:31:54,751 [main] INFO OAInsight - password provided
+2021-11-10 13:31:54,772 [main] INFO OAInsight - Clicked on login button
+2021-11-10 13:31:54,816 [main] INFO OAInsight - username provided
+2021-11-10 13:31:54,851 [main] INFO OAInsight - password provided
+2021-11-10 13:31:54,873 [main] INFO OAInsight - Clicked on login button
+2021-11-10 13:41:29,865 [main] INFO OAInsight - username provided
+2021-11-10 13:41:29,918 [main] INFO OAInsight - password provided
+2021-11-10 13:41:29,960 [main] INFO OAInsight - Clicked on login button
+2021-11-10 13:41:30,033 [main] INFO OAInsight - username provided
+2021-11-10 13:41:30,069 [main] INFO OAInsight - password provided
+2021-11-10 13:41:30,092 [main] INFO OAInsight - Clicked on login button
+2021-11-10 13:41:30,135 [main] INFO OAInsight - username provided
+2021-11-10 13:41:30,168 [main] INFO OAInsight - password provided
+2021-11-10 13:41:30,189 [main] INFO OAInsight - Clicked on login button
+2021-11-10 13:56:14,023 [main] INFO OAInsight - username provided
+2021-11-10 13:56:14,076 [main] INFO OAInsight - password provided
+2021-11-10 13:56:14,119 [main] INFO OAInsight - Clicked on login button
+2021-11-10 13:56:24,313 [main] INFO OAInsight - username provided
+2021-11-10 13:56:34,404 [main] INFO OAInsight - username provided
+2021-11-10 13:58:21,095 [main] INFO OAInsight - username provided
+2021-11-10 13:58:21,149 [main] INFO OAInsight - password provided
+2021-11-10 13:58:21,191 [main] INFO OAInsight - Clicked on login button
+2021-11-10 13:58:31,283 [main] INFO OAInsight - username provided
+2021-11-10 13:58:41,346 [main] INFO OAInsight - username provided
+2021-11-10 14:53:38,862 [main] INFO OAInsight - username provided
+2021-11-10 14:53:39,027 [main] INFO OAInsight - password provided
+2021-11-10 14:53:39,101 [main] INFO OAInsight - Clicked on login button
+2021-11-10 14:53:49,400 [main] INFO OAInsight - username provided
+2021-11-10 14:53:59,509 [main] INFO OAInsight - username provided
+2021-11-10 15:02:17,411 [main] INFO OAInsight - username provided
+2021-11-10 15:02:17,473 [main] INFO OAInsight - password provided
+2021-11-10 15:02:17,517 [main] INFO OAInsight - Clicked on login button
+2021-11-10 15:02:27,644 [main] INFO OAInsight - username provided
+2021-11-10 15:02:37,725 [main] INFO OAInsight - username provided
+2021-11-10 15:05:16,392 [main] INFO OAInsight - username provided
+2021-11-10 15:05:16,448 [main] INFO OAInsight - password provided
+2021-11-10 15:05:16,490 [main] INFO OAInsight - Clicked on login button
+2021-11-10 15:05:26,637 [main] INFO OAInsight - username provided
+2021-11-10 15:05:36,711 [main] INFO OAInsight - username provided
+2021-11-10 15:09:56,665 [main] INFO OAInsight - username provided
+2021-11-10 15:09:56,733 [main] INFO OAInsight - password provided
+2021-11-10 15:09:56,777 [main] INFO OAInsight - Clicked on login button
+2021-11-10 15:09:56,880 [main] INFO OAInsight - username provided
+2021-11-10 15:09:56,924 [main] INFO OAInsight - password provided
+2021-11-10 15:09:56,948 [main] INFO OAInsight - Clicked on login button
+2021-11-10 15:09:56,996 [main] INFO OAInsight - username provided
+2021-11-10 15:09:57,031 [main] INFO OAInsight - password provided
+2021-11-10 15:09:57,051 [main] INFO OAInsight - Clicked on login button
+2021-11-10 15:10:54,926 [main] INFO OAInsight - username provided
+2021-11-10 15:10:54,994 [main] INFO OAInsight - password provided
+2021-11-10 15:10:55,036 [main] INFO OAInsight - Clicked on login button
+2021-11-10 15:11:05,157 [main] INFO OAInsight - username provided
+2021-11-10 15:11:15,255 [main] INFO OAInsight - username provided
+2021-11-10 16:11:33,866 [main] INFO OAInsight - username provided
+2021-11-10 16:11:34,201 [main] INFO OAInsight - password provided
+2021-11-10 16:11:34,299 [main] INFO OAInsight - Clicked on login button
+2021-11-10 16:11:34,682 [main] INFO OAInsight - username provided
+2021-11-10 16:11:34,723 [main] INFO OAInsight - password provided
+2021-11-10 16:11:34,754 [main] INFO OAInsight - Clicked on login button
+2021-11-10 16:11:34,859 [main] INFO OAInsight - username provided
+2021-11-10 16:11:34,949 [main] INFO OAInsight - password provided
+2021-11-10 16:11:34,998 [main] INFO OAInsight - Clicked on login button
+2021-11-10 16:14:17,507 [main] INFO OAInsight - username provided
+2021-11-10 16:14:17,690 [main] INFO OAInsight - password provided
+2021-11-10 16:14:17,748 [main] INFO OAInsight - Clicked on login button
+2021-11-10 16:14:19,873 [main] INFO OAInsight - username provided
+2021-11-10 16:14:19,917 [main] INFO OAInsight - password provided
+2021-11-10 16:14:19,941 [main] INFO OAInsight - Clicked on login button
+2021-11-10 16:14:22,055 [main] INFO OAInsight - username provided
+2021-11-10 16:16:59,098 [main] INFO OAInsight - username provided
+2021-11-10 16:16:59,179 [main] INFO OAInsight - password provided
+2021-11-10 16:16:59,279 [main] INFO OAInsight - Clicked on login button
+2021-11-10 16:17:01,360 [main] INFO OAInsight - username provided
+2021-11-10 16:17:01,402 [main] INFO OAInsight - password provided
+2021-11-10 16:17:01,426 [main] INFO OAInsight - Clicked on login button
+2021-11-10 16:17:03,494 [main] INFO OAInsight - username provided
+2021-11-10 16:34:51,336 [main] INFO OAInsight - username provided
+2021-11-10 16:34:51,451 [main] INFO OAInsight - password provided
+2021-11-10 16:34:51,507 [main] INFO OAInsight - Clicked on login button
+2021-11-10 16:34:53,659 [main] INFO OAInsight - username provided
+2021-11-10 16:34:53,700 [main] INFO OAInsight - password provided
+2021-11-10 16:34:53,875 [main] INFO OAInsight - username provided
+2021-11-10 17:24:49,706 [main] INFO OAInsight - username provided
+2021-11-10 17:24:49,930 [main] INFO OAInsight - password provided
+2021-11-10 17:24:50,022 [main] INFO OAInsight - Clicked on login button
+2021-11-10 17:24:52,337 [main] INFO OAInsight - username provided
+2021-11-10 17:25:02,568 [main] INFO OAInsight - username provided
+2021-11-10 17:27:18,593 [main] INFO OAInsight - username provided
+2021-11-10 17:27:18,706 [main] INFO OAInsight - password provided
+2021-11-10 17:27:18,799 [main] INFO OAInsight - Clicked on login button
+2021-11-10 17:27:20,894 [main] INFO OAInsight - username provided
+2021-11-10 17:27:20,937 [main] INFO OAInsight - password provided
+2021-11-10 17:27:20,962 [main] INFO OAInsight - Clicked on login button
+2021-11-10 17:27:23,059 [main] INFO OAInsight - username provided
+2021-11-10 17:34:17,786 [main] INFO OAInsight - username provided
+2021-11-10 17:34:17,883 [main] INFO OAInsight - password provided
+2021-11-10 17:34:17,949 [main] INFO OAInsight - Clicked on login button
+2021-11-10 17:34:21,531 [main] INFO OAInsight - username provided
+2021-11-10 17:34:21,606 [main] INFO OAInsight - password provided
+2021-11-10 17:34:21,660 [main] INFO OAInsight - Clicked on login button
+2021-11-10 17:34:23,697 [main] INFO OAInsight - Login passed
+2021-11-10 17:34:25,902 [main] INFO OAInsight - username provided
+2021-11-10 17:34:25,961 [main] INFO OAInsight - password provided
+2021-11-10 17:34:26,017 [main] INFO OAInsight - Clicked on login button
+2021-11-10 17:58:54,268 [main] INFO OAInsight - username provided
+2021-11-10 17:58:55,688 [main] INFO OAInsight - password provided
+2021-11-10 17:58:55,880 [main] INFO OAInsight - Clicked on login button
+2021-11-10 17:58:59,840 [main] INFO OAInsight - username provided
+2021-11-10 17:58:59,924 [main] INFO OAInsight - password provided
+2021-11-10 17:59:00,016 [main] INFO OAInsight - Clicked on login button
+2021-11-10 17:59:02,052 [main] INFO OAInsight - Login passed
+2021-11-10 17:59:04,221 [main] INFO OAInsight - username provided
+2021-11-10 17:59:04,285 [main] INFO OAInsight - password provided
+2021-11-10 17:59:04,324 [main] INFO OAInsight - Clicked on login button
+2021-11-10 18:00:39,803 [main] INFO OAInsight - username provided
+2021-11-10 18:00:39,924 [main] INFO OAInsight - password provided
+2021-11-10 18:00:40,023 [main] INFO OAInsight - Clicked on login button
+2021-11-10 18:00:42,714 [main] INFO OAInsight - username provided
+2021-11-10 18:00:42,779 [main] INFO OAInsight - password provided
+2021-11-10 18:00:42,829 [main] INFO OAInsight - Clicked on login button
+2021-11-10 18:00:44,859 [main] INFO OAInsight - Login passed
+2021-11-10 18:00:47,024 [main] INFO OAInsight - username provided
+2021-11-10 18:00:47,084 [main] INFO OAInsight - password provided
+2021-11-10 18:00:47,123 [main] INFO OAInsight - Clicked on login button
+2021-11-10 18:02:43,896 [main] INFO OAInsight - username provided
+2021-11-10 18:02:43,984 [main] INFO OAInsight - password provided
+2021-11-10 18:02:44,044 [main] INFO OAInsight - Clicked on login button
+2021-11-10 18:02:46,142 [main] INFO OAInsight - username provided
+2021-11-10 18:02:46,189 [main] INFO OAInsight - password provided
+2021-11-10 18:02:46,220 [main] INFO OAInsight - Clicked on login button
+2021-11-10 18:02:48,261 [main] INFO OAInsight - Login passed
+2021-11-10 18:02:50,379 [main] INFO OAInsight - username provided
+2021-11-10 18:02:50,439 [main] INFO OAInsight - password provided
+2021-11-10 18:02:50,479 [main] INFO OAInsight - Clicked on login button
+2021-11-10 18:06:59,875 [main] INFO OAInsight - username provided
+2021-11-10 18:06:59,949 [main] INFO OAInsight - password provided
+2021-11-10 18:07:00,010 [main] INFO OAInsight - Clicked on login button
+2021-11-10 18:07:02,119 [main] INFO OAInsight - username provided
+2021-11-10 18:07:02,166 [main] INFO OAInsight - password provided
+2021-11-10 18:07:02,195 [main] INFO OAInsight - Clicked on login button
+2021-11-10 18:07:04,221 [main] INFO OAInsight - Login passed
+2021-11-10 18:32:00,057 [main] INFO OAInsight - username provided
+2021-11-10 18:32:00,258 [main] INFO OAInsight - password provided
+2021-11-10 18:32:00,350 [main] INFO OAInsight - Clicked on login button
+2021-11-10 18:34:35,363 [main] INFO OAInsight - username provided
+2021-11-10 18:34:35,450 [main] INFO OAInsight - password provided
+2021-11-10 18:34:35,531 [main] INFO OAInsight - Clicked on login button
+2021-11-10 18:34:37,644 [main] INFO OAInsight - username provided
+2021-11-10 18:34:37,698 [main] INFO OAInsight - password provided
+2021-11-10 18:34:37,727 [main] INFO OAInsight - Clicked on login button
+2021-11-10 18:34:39,759 [main] INFO OAInsight - Login passed
+2021-11-10 18:36:02,191 [main] INFO OAInsight - username provided
+2021-11-10 18:36:02,275 [main] INFO OAInsight - password provided
+2021-11-10 18:36:02,344 [main] INFO OAInsight - Clicked on login button
+2021-11-10 18:36:04,368 [main] INFO OAInsight - Login passed
+2021-11-10 18:36:06,509 [main] INFO OAInsight - username provided
+2021-11-10 18:37:08,546 [main] INFO OAInsight - username provided
+2021-11-10 18:37:08,624 [main] INFO OAInsight - password provided
+2021-11-10 18:37:08,690 [main] INFO OAInsight - Clicked on login button
+2021-11-10 18:37:10,709 [main] INFO OAInsight - Login passed
+2021-11-10 18:37:12,890 [main] INFO OAInsight - username provided
+2021-11-10 18:37:13,008 [main] INFO OAInsight - password provided
+2021-11-10 18:37:13,072 [main] INFO OAInsight - Clicked on login button
+2021-11-10 18:37:15,098 [main] INFO OAInsight - Login passed
+2021-11-10 18:40:59,053 [main] INFO OAInsight - username provided
+2021-11-10 18:40:59,148 [main] INFO OAInsight - password provided
+2021-11-10 18:40:59,211 [main] INFO OAInsight - Clicked on login button
+2021-11-10 18:41:01,241 [main] INFO OAInsight - Login passed
+2021-11-10 18:41:03,339 [main] INFO OAInsight - username provided
+2021-11-10 19:05:14,922 [main] INFO OAInsight - username provided
+2021-11-10 19:05:15,040 [main] INFO OAInsight - password provided
+2021-11-10 19:05:15,142 [main] INFO OAInsight - Clicked on login button
+2021-11-10 19:05:27,367 [main] INFO OAInsight - username provided
+2021-11-10 19:07:17,866 [main] INFO OAInsight - username provided
+2021-11-10 19:07:17,998 [main] INFO OAInsight - password provided
+2021-11-10 19:07:18,112 [main] INFO OAInsight - Clicked on login button
+2021-11-10 19:07:30,437 [main] INFO OAInsight - username provided
+2021-11-10 19:09:22,396 [main] INFO OAInsight - username provided
+2021-11-10 19:09:22,526 [main] INFO OAInsight - password provided
+2021-11-10 19:09:22,593 [main] INFO OAInsight - Clicked on login button
+2021-11-10 19:09:34,882 [main] INFO OAInsight - username provided
+2021-11-10 19:12:10,571 [main] INFO OAInsight - username provided
+2021-11-10 19:12:10,694 [main] INFO OAInsight - password provided
+2021-11-10 19:12:10,791 [main] INFO OAInsight - Clicked on login button
+2021-11-10 19:12:12,807 [main] INFO OAInsight - Login passed
+2021-11-10 19:12:14,971 [main] INFO OAInsight - username provided
+2021-11-10 19:12:15,039 [main] INFO OAInsight - password provided
+2021-11-10 19:12:15,087 [main] INFO OAInsight - Clicked on login button
+2021-11-10 19:12:17,099 [main] INFO OAInsight - Login passed
+2021-11-10 21:30:26,146 [main] INFO OAInsight - username provided
+2021-11-10 21:30:26,196 [main] INFO OAInsight - password provided
+2021-11-10 21:30:26,237 [main] INFO OAInsight - Clicked on login button
+2021-11-10 21:30:28,260 [main] INFO OAInsight - Login passed
+2021-11-10 21:30:30,377 [main] INFO OAInsight - username provided
+2021-11-10 21:30:30,418 [main] INFO OAInsight - password provided
+2021-11-10 21:30:30,448 [main] INFO OAInsight - Clicked on login button
+2021-11-10 21:30:32,455 [main] INFO OAInsight - Login passed
+2021-11-10 21:47:18,375 [main] INFO OAInsight - username provided
+2021-11-10 21:47:18,428 [main] INFO OAInsight - password provided
+2021-11-10 21:47:18,471 [main] INFO OAInsight - Clicked on login button
+2021-11-10 21:47:20,495 [main] INFO OAInsight - Login passed
+2021-11-10 21:47:22,641 [main] INFO OAInsight - username provided
+2021-11-10 21:47:22,689 [main] INFO OAInsight - password provided
+2021-11-10 21:47:22,718 [main] INFO OAInsight - Clicked on login button
+2021-11-10 21:47:24,730 [main] INFO OAInsight - Login passed
+2021-11-11 07:08:13,685 [main] INFO OAInsight - username provided
+2021-11-11 07:08:15,094 [main] INFO OAInsight - password provided
+2021-11-11 07:08:15,405 [main] INFO OAInsight - Clicked on login button
+2021-11-11 07:08:17,908 [main] INFO OAInsight - Login passed
+2021-11-11 07:08:20,444 [main] INFO OAInsight - username provided
+2021-11-11 07:08:20,486 [main] INFO OAInsight - password provided
+2021-11-11 07:08:20,534 [main] INFO OAInsight - Clicked on login button
+2021-11-11 07:08:22,550 [main] INFO OAInsight - Login passed
+2021-11-11 07:11:12,815 [main] INFO OAInsight - username provided
+2021-11-11 07:11:12,870 [main] INFO OAInsight - password provided
+2021-11-11 07:11:12,914 [main] INFO OAInsight - Clicked on login button
+2021-11-11 07:11:16,988 [main] INFO OAInsight - Login passed
+2021-11-11 07:11:17,052 [main] INFO OAInsight - username provided
+2021-11-11 07:11:17,093 [main] INFO OAInsight - password provided
+2021-11-11 07:11:17,122 [main] INFO OAInsight - Clicked on login button
+2021-11-11 07:14:18,606 [main] INFO OAInsight - username provided
+2021-11-11 07:14:18,658 [main] INFO OAInsight - password provided
+2021-11-11 07:14:18,701 [main] INFO OAInsight - Clicked on login button
+2021-11-11 07:14:22,779 [main] INFO OAInsight - Login passed
+2021-11-11 07:14:22,851 [main] INFO OAInsight - username provided
+2021-11-11 07:14:22,895 [main] INFO OAInsight - password provided
+2021-11-11 07:14:22,926 [main] INFO OAInsight - Clicked on login button
+2021-11-11 07:49:38,810 [main] INFO OAInsight - username provided
+2021-11-11 07:49:38,867 [main] INFO OAInsight - password provided
+2021-11-11 07:49:38,911 [main] INFO OAInsight - Clicked on login button
+2021-11-11 07:49:42,982 [main] INFO OAInsight - Login passed
+2021-11-11 07:49:43,046 [main] INFO OAInsight - username provided
+2021-11-11 07:49:43,091 [main] INFO OAInsight - password provided
+2021-11-11 07:49:43,122 [main] INFO OAInsight - Clicked on login button
+2021-11-11 07:51:02,204 [main] INFO OAInsight - username provided
+2021-11-11 07:51:02,261 [main] INFO OAInsight - password provided
+2021-11-11 07:51:02,305 [main] INFO OAInsight - Clicked on login button
+2021-11-11 07:51:06,383 [main] INFO OAInsight - Login passed
+2021-11-11 07:51:06,467 [main] INFO OAInsight - username provided
+2021-11-11 07:51:06,522 [main] INFO OAInsight - password provided
+2021-11-11 07:51:06,554 [main] INFO OAInsight - Clicked on login button
+2021-11-11 08:13:49,420 [main] INFO OAInsight - username provided
+2021-11-11 08:13:49,478 [main] INFO OAInsight - password provided
+2021-11-11 08:13:49,520 [main] INFO OAInsight - Clicked on login button
+2021-11-11 08:13:51,582 [main] INFO OAInsight - username provided
+2021-11-11 08:13:51,614 [main] INFO OAInsight - password provided
+2021-11-11 10:49:56,289 [main] INFO OAInsight - username provided
+2021-11-11 10:49:56,496 [main] INFO OAInsight - password provided
+2021-11-11 10:49:56,546 [main] INFO OAInsight - Clicked on login button
+2021-11-11 10:49:58,599 [main] INFO OAInsight - Login passed
+2021-11-11 10:50:00,786 [main] INFO OAInsight - username provided
+2021-11-11 10:50:00,841 [main] INFO OAInsight - password provided
+2021-11-11 10:50:00,884 [main] INFO OAInsight - Clicked on login button
+2021-11-11 10:50:02,906 [main] INFO OAInsight - Login passed
+2021-11-11 10:51:47,252 [main] INFO OAInsight - username provided
+2021-11-11 10:51:47,321 [main] INFO OAInsight - password provided
+2021-11-11 10:51:47,381 [main] INFO OAInsight - Clicked on login button
+2021-11-11 10:51:49,404 [main] INFO OAInsight - Login passed
+2021-11-11 10:51:51,624 [main] INFO OAInsight - username provided
+2021-11-11 10:51:51,724 [main] INFO OAInsight - password provided
+2021-11-11 10:51:51,795 [main] INFO OAInsight - Clicked on login button
+2021-11-11 10:51:53,813 [main] INFO OAInsight - Login passed
+2021-11-11 10:53:09,779 [main] INFO OAInsight - username provided
+2021-11-11 10:53:09,859 [main] INFO OAInsight - password provided
+2021-11-11 10:53:09,918 [main] INFO OAInsight - Clicked on login button
+2021-11-11 10:53:11,938 [main] INFO OAInsight - Login passed
+2021-11-11 10:53:14,147 [main] INFO OAInsight - username provided
+2021-11-11 10:53:14,201 [main] INFO OAInsight - password provided
+2021-11-11 10:53:14,241 [main] INFO OAInsight - Clicked on login button
+2021-11-11 10:53:16,260 [main] INFO OAInsight - Login passed
+2021-11-11 10:56:25,431 [main] INFO OAInsight - username provided
+2021-11-11 10:56:25,577 [main] INFO OAInsight - password provided
+2021-11-11 10:56:25,635 [main] INFO OAInsight - Clicked on login button
+2021-11-11 10:56:27,650 [main] INFO OAInsight - Login passed
+2021-11-11 10:56:29,737 [main] INFO OAInsight - username provided
+2021-11-11 11:06:40,955 [main] INFO OAInsight - username provided
+2021-11-11 11:06:41,070 [main] INFO OAInsight - password provided
+2021-11-11 11:06:41,173 [main] INFO OAInsight - Clicked on login button
+2021-11-11 11:06:45,251 [main] INFO OAInsight - Login passed
+2021-11-11 11:06:45,331 [main] INFO OAInsight - username provided
+2021-11-11 11:06:45,389 [main] INFO OAInsight - password provided
+2021-11-11 11:06:45,427 [main] INFO OAInsight - Clicked on login button
+2021-11-11 11:29:43,552 [main] INFO OAInsight - username provided
+2021-11-11 11:29:43,663 [main] INFO OAInsight - password provided
+2021-11-11 11:29:43,762 [main] INFO OAInsight - Clicked on login button
+2021-11-11 11:29:47,848 [main] INFO OAInsight - Login passed
+2021-11-11 11:29:47,943 [main] INFO OAInsight - username provided
+2021-11-11 11:29:47,997 [main] INFO OAInsight - password provided
+2021-11-11 11:29:48,038 [main] INFO OAInsight - Clicked on login button
+2021-11-11 11:31:25,345 [main] INFO OAInsight - username provided
+2021-11-11 11:31:25,489 [main] INFO OAInsight - password provided
+2021-11-11 11:31:25,595 [main] INFO OAInsight - Clicked on login button
+2021-11-11 11:31:27,682 [main] INFO OAInsight - username provided
+2021-11-11 11:31:27,723 [main] INFO OAInsight - password provided
+2021-11-11 11:31:27,752 [main] INFO OAInsight - Clicked on login button
+2021-11-11 11:50:29,938 [main] INFO OAInsight - username provided
+2021-11-11 11:50:30,048 [main] INFO OAInsight - password provided
+2021-11-11 11:50:30,110 [main] INFO OAInsight - Clicked on login button
+2021-11-11 11:50:42,812 [main] INFO OAInsight - username provided
+2021-11-11 14:29:55,198 [main] INFO OAInsight - username provided
+2021-11-11 14:29:55,409 [main] INFO OAInsight - password provided
+2021-11-11 14:29:55,451 [main] INFO OAInsight - Clicked on login button
+2021-11-11 14:29:59,698 [main] INFO OAInsight - Login passed
+2021-11-11 14:29:59,775 [main] INFO OAInsight - username provided
+2021-11-11 14:29:59,819 [main] INFO OAInsight - password provided
+2021-11-11 14:29:59,857 [main] INFO OAInsight - Clicked on login button
+2021-11-11 15:10:37,316 [main] INFO OAInsight - username provided
+2021-11-11 15:10:37,366 [main] INFO OAInsight - password provided
+2021-11-11 15:10:37,409 [main] INFO OAInsight - Clicked on login button
+2021-11-11 15:10:41,488 [main] INFO OAInsight - Login passed
+2021-11-11 15:10:41,550 [main] INFO OAInsight - username provided
+2021-11-11 15:10:41,595 [main] INFO OAInsight - password provided
+2021-11-11 15:10:41,627 [main] INFO OAInsight - Clicked on login button
+2021-11-11 15:27:39,507 [main] INFO OAInsight - username provided
+2021-11-11 15:27:39,575 [main] INFO OAInsight - password provided
+2021-11-11 15:27:39,634 [main] INFO OAInsight - Clicked on login button
+2021-11-11 15:27:41,786 [main] INFO OAInsight - username provided
+2021-11-11 15:27:41,845 [main] INFO OAInsight - password provided
+2021-11-11 15:31:39,495 [main] INFO OAInsight - username provided
+2021-11-11 15:31:39,561 [main] INFO OAInsight - password provided
+2021-11-11 15:31:39,621 [main] INFO OAInsight - Clicked on login button
+2021-11-11 15:31:41,719 [main] INFO OAInsight - username provided
+2021-11-11 15:31:41,755 [main] INFO OAInsight - password provided
+2021-11-11 15:31:41,777 [main] INFO OAInsight - Clicked on login button
+2021-11-11 15:34:41,068 [main] INFO OAInsight - username provided
+2021-11-11 15:34:41,185 [main] INFO OAInsight - password provided
+2021-11-11 15:34:41,244 [main] INFO OAInsight - Clicked on login button
+2021-11-11 15:34:43,349 [main] INFO OAInsight - username provided
+2021-11-11 15:34:43,388 [main] INFO OAInsight - password provided
+2021-11-11 15:37:40,679 [main] INFO OAInsight - username provided
+2021-11-11 15:37:40,746 [main] INFO OAInsight - password provided
+2021-11-11 15:37:40,850 [main] INFO OAInsight - Clicked on login button
+2021-11-11 15:37:42,932 [main] INFO OAInsight - username provided
+2021-11-11 15:37:42,965 [main] INFO OAInsight - password provided
+2021-11-11 15:37:42,988 [main] INFO OAInsight - Clicked on login button
+2021-11-11 15:39:09,350 [main] INFO OAInsight - username provided
+2021-11-11 15:39:09,423 [main] INFO OAInsight - password provided
+2021-11-11 15:39:09,484 [main] INFO OAInsight - Clicked on login button
+2021-11-11 15:39:13,514 [main] INFO OAInsight - Login fail
+2021-11-11 15:39:13,643 [main] INFO OAInsight - username provided
+2021-11-11 15:42:57,957 [main] INFO OAInsight - username provided
+2021-11-11 15:42:58,065 [main] INFO OAInsight - password provided
+2021-11-11 15:42:58,148 [main] INFO OAInsight - Clicked on login button
+2021-11-11 15:43:00,252 [main] INFO OAInsight - username provided
+2021-11-11 15:43:00,291 [main] INFO OAInsight - password provided
+2021-11-11 15:43:00,313 [main] INFO OAInsight - Clicked on login button
+2021-11-11 15:44:36,194 [main] INFO OAInsight - username provided
+2021-11-11 15:44:36,268 [main] INFO OAInsight - password provided
+2021-11-11 15:44:36,323 [main] INFO OAInsight - Clicked on login button
+2021-11-11 15:44:40,350 [main] INFO OAInsight - Login fail
+2021-11-11 15:44:40,426 [main] INFO OAInsight - username provided
+2021-11-11 15:48:33,415 [main] INFO OAInsight - username provided
+2021-11-11 15:48:33,484 [main] INFO OAInsight - password provided
+2021-11-11 15:48:33,539 [main] INFO OAInsight - Clicked on login button
+2021-11-11 15:48:37,566 [main] INFO OAInsight - Login fail
+2021-11-11 15:48:37,638 [main] INFO OAInsight - username provided
+2021-11-11 15:53:16,201 [main] INFO OAInsight - username provided
+2021-11-11 15:53:16,330 [main] INFO OAInsight - password provided
+2021-11-11 15:53:16,418 [main] INFO OAInsight - Clicked on login button
+2021-11-11 15:53:20,496 [main] INFO OAInsight - Login passed
+2021-11-11 15:53:20,570 [main] INFO OAInsight - username provided
+2021-11-11 15:53:20,620 [main] INFO OAInsight - password provided
+2021-11-11 15:53:20,655 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:18:44,782 [main] INFO OAInsight - username provided
+2021-11-11 16:18:44,872 [main] INFO OAInsight - password provided
+2021-11-11 16:18:44,928 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:18:47,065 [main] INFO OAInsight - username provided
+2021-11-11 16:20:18,273 [main] INFO OAInsight - username provided
+2021-11-11 16:20:18,339 [main] INFO OAInsight - password provided
+2021-11-11 16:20:18,408 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:20:20,532 [main] INFO OAInsight - username provided
+2021-11-11 16:20:20,568 [main] INFO OAInsight - password provided
+2021-11-11 16:20:20,591 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:21:46,070 [main] INFO OAInsight - username provided
+2021-11-11 16:21:46,136 [main] INFO OAInsight - password provided
+2021-11-11 16:21:46,231 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:21:50,343 [main] INFO OAInsight - Login passed
+2021-11-11 16:21:50,419 [main] INFO OAInsight - username provided
+2021-11-11 16:21:50,468 [main] INFO OAInsight - password provided
+2021-11-11 16:21:50,508 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:23:16,443 [main] INFO OAInsight - username provided
+2021-11-11 16:23:16,580 [main] INFO OAInsight - password provided
+2021-11-11 16:23:16,632 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:23:20,719 [main] INFO OAInsight - Login passed
+2021-11-11 16:23:20,800 [main] INFO OAInsight - username provided
+2021-11-11 16:23:20,854 [main] INFO OAInsight - password provided
+2021-11-11 16:23:20,892 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:34:03,063 [main] INFO OAInsight - username provided
+2021-11-11 16:34:03,179 [main] INFO OAInsight - password provided
+2021-11-11 16:34:03,266 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:34:05,416 [main] INFO OAInsight - username provided
+2021-11-11 16:35:35,913 [main] INFO OAInsight - username provided
+2021-11-11 16:35:35,983 [main] INFO OAInsight - password provided
+2021-11-11 16:35:36,033 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:35:36,133 [main] INFO OAInsight - username provided
+2021-11-11 16:35:36,189 [main] INFO OAInsight - password provided
+2021-11-11 16:35:36,250 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:37:23,054 [main] INFO OAInsight - username provided
+2021-11-11 16:37:23,149 [main] INFO OAInsight - password provided
+2021-11-11 16:37:23,203 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:37:27,318 [main] INFO OAInsight - Login passed
+2021-11-11 16:37:27,407 [main] INFO OAInsight - username provided
+2021-11-11 16:37:27,458 [main] INFO OAInsight - password provided
+2021-11-11 16:37:27,500 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:38:40,426 [main] INFO OAInsight - username provided
+2021-11-11 16:38:40,548 [main] INFO OAInsight - password provided
+2021-11-11 16:38:40,602 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:38:42,693 [main] INFO OAInsight - username provided
+2021-11-11 16:38:42,726 [main] INFO OAInsight - password provided
+2021-11-11 16:38:42,747 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:38:46,891 [main] INFO OAInsight - Login passed
+2021-11-11 16:40:28,056 [main] INFO OAInsight - username provided
+2021-11-11 16:40:28,130 [main] INFO OAInsight - password provided
+2021-11-11 16:40:28,188 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:40:30,272 [main] INFO OAInsight - username provided
+2021-11-11 16:40:30,305 [main] INFO OAInsight - password provided
+2021-11-11 16:41:08,361 [main] INFO OAInsight - username provided
+2021-11-11 16:41:08,491 [main] INFO OAInsight - password provided
+2021-11-11 16:41:08,592 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:41:10,698 [main] INFO OAInsight - username provided
+2021-11-11 16:41:10,746 [main] INFO OAInsight - password provided
+2021-11-11 16:41:10,774 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:41:14,936 [main] INFO OAInsight - Login passed
+2021-11-11 16:42:44,427 [main] INFO OAInsight - username provided
+2021-11-11 16:42:44,495 [main] INFO OAInsight - password provided
+2021-11-11 16:42:44,581 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:42:48,667 [main] INFO OAInsight - Login passed
+2021-11-11 16:42:48,785 [main] INFO OAInsight - username provided
+2021-11-11 16:42:48,842 [main] INFO OAInsight - password provided
+2021-11-11 16:42:48,886 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:44:17,909 [main] INFO OAInsight - username provided
+2021-11-11 16:44:18,016 [main] INFO OAInsight - password provided
+2021-11-11 16:44:18,091 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:44:22,165 [main] INFO OAInsight - Login passed
+2021-11-11 16:44:22,242 [main] INFO OAInsight - username provided
+2021-11-11 16:44:22,294 [main] INFO OAInsight - password provided
+2021-11-11 16:44:22,328 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:46:30,783 [main] INFO OAInsight - username provided
+2021-11-11 16:46:30,903 [main] INFO OAInsight - password provided
+2021-11-11 16:46:30,961 [main] INFO OAInsight - Clicked on login button
+2021-11-11 16:46:35,049 [main] INFO OAInsight - Login passed
+2021-11-11 16:46:35,172 [main] INFO OAInsight - username provided
+2021-11-11 16:46:35,225 [main] INFO OAInsight - password provided
+2021-11-11 16:46:35,263 [main] INFO OAInsight - Clicked on login button
+2021-11-15 10:43:26,972 [main] INFO OAInsight - username provided
+2021-11-15 10:43:27,116 [main] INFO OAInsight - password provided
+2021-11-15 10:43:27,157 [main] INFO OAInsight - Clicked on login button
+2021-11-15 10:43:49,452 [main] INFO OAInsight - Login passed
+2021-11-15 10:43:49,522 [main] INFO OAInsight - username provided
+2021-11-15 10:43:49,572 [main] INFO OAInsight - password provided
+2021-11-15 10:43:49,613 [main] INFO OAInsight - Clicked on login button
+2021-11-17 10:27:06,709 [main] INFO OAInsight - URL is OPened
+2021-11-17 10:27:17,031 [main] INFO OAInsight - Entered UserName
+2021-11-17 10:27:17,084 [main] INFO OAInsight - Entered Password
+2021-11-17 10:27:20,161 [main] INFO OAInsight - LoginTest passed
+2021-11-17 10:28:10,281 [main] INFO OAInsight - username provided
+2021-11-17 10:28:10,330 [main] INFO OAInsight - password provided
+2021-11-17 10:28:10,371 [main] INFO OAInsight - Clicked on login button
+2021-11-17 10:28:32,550 [main] INFO OAInsight - Login passed
+2021-11-17 10:28:32,614 [main] INFO OAInsight - username provided
+2021-11-17 10:28:32,675 [main] INFO OAInsight - password provided
+2021-11-17 10:28:32,711 [main] INFO OAInsight - Clicked on login button
+2021-11-17 10:36:15,968 [main] INFO OAInsight - URL is OPened
+2021-11-17 10:36:26,084 [main] INFO OAInsight - Entered UserName
+2021-11-17 10:36:26,135 [main] INFO OAInsight - Entered Password
+2021-11-17 10:36:29,200 [main] INFO OAInsight - LoginTest passed
+2021-11-17 10:43:37,517 [main] INFO OAInsight - URL is OPened
+2021-11-17 10:43:47,616 [main] INFO OAInsight - Entered UserName
+2021-11-17 10:43:47,669 [main] INFO OAInsight - Entered Password
+2021-11-17 10:43:50,741 [main] INFO OAInsight - LoginTest passed
+2021-11-17 10:44:34,318 [main] INFO OAInsight - URL is OPened
+2021-11-17 10:44:44,399 [main] INFO OAInsight - Entered UserName
+2021-11-17 10:44:44,448 [main] INFO OAInsight - Entered Password
+2021-11-17 10:44:47,502 [main] INFO OAInsight - LoginTest passed
+2021-11-17 10:44:50,778 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 10:48:48,247 [main] INFO OAInsight - URL is OPened
+2021-11-17 10:48:58,467 [main] INFO OAInsight - Entered UserName
+2021-11-17 10:48:58,516 [main] INFO OAInsight - Entered Password
+2021-11-17 10:49:01,570 [main] INFO OAInsight - LoginTest passed
+2021-11-17 10:49:04,982 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 10:53:58,134 [main] INFO OAInsight - URL is OPened
+2021-11-17 10:54:08,234 [main] INFO OAInsight - Entered UserName
+2021-11-17 10:54:08,287 [main] INFO OAInsight - Entered Password
+2021-11-17 10:54:11,352 [main] INFO OAInsight - LoginTest passed
+2021-11-17 10:54:14,516 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 10:55:30,001 [main] INFO OAInsight - URL is OPened
+2021-11-17 10:55:40,100 [main] INFO OAInsight - Entered UserName
+2021-11-17 10:55:40,148 [main] INFO OAInsight - Entered Password
+2021-11-17 10:55:43,224 [main] INFO OAInsight - LoginTest passed
+2021-11-17 10:55:46,396 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 10:57:26,845 [main] INFO OAInsight - URL is OPened
+2021-11-17 10:57:36,937 [main] INFO OAInsight - Entered UserName
+2021-11-17 10:57:36,992 [main] INFO OAInsight - Entered Password
+2021-11-17 10:57:40,055 [main] INFO OAInsight - LoginTest passed
+2021-11-17 10:57:43,218 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 11:11:06,246 [main] INFO OAInsight - URL is OPened
+2021-11-17 11:11:17,119 [main] INFO OAInsight - Entered UserName
+2021-11-17 11:11:17,512 [main] INFO OAInsight - Entered Password
+2021-11-17 11:11:20,905 [main] INFO OAInsight - LoginTest passed
+2021-11-17 11:11:24,262 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 11:13:57,618 [main] INFO OAInsight - URL is OPened
+2021-11-17 11:14:07,930 [main] INFO OAInsight - Entered UserName
+2021-11-17 11:14:07,980 [main] INFO OAInsight - Entered Password
+2021-11-17 11:14:11,037 [main] INFO OAInsight - LoginTest passed
+2021-11-17 11:14:14,201 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 11:16:05,391 [main] INFO OAInsight - URL is OPened
+2021-11-17 11:16:15,660 [main] INFO OAInsight - Entered UserName
+2021-11-17 11:16:15,712 [main] INFO OAInsight - Entered Password
+2021-11-17 11:16:18,768 [main] INFO OAInsight - LoginTest passed
+2021-11-17 11:16:51,926 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 11:56:10,930 [main] INFO OAInsight - URL is OPened
+2021-11-17 11:56:21,332 [main] INFO OAInsight - Entered UserName
+2021-11-17 11:56:21,383 [main] INFO OAInsight - Entered Password
+2021-11-17 11:56:24,625 [main] INFO OAInsight - LoginTest passed
+2021-11-17 11:56:30,907 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 11:58:16,668 [main] INFO OAInsight - URL is OPened
+2021-11-17 11:58:26,769 [main] INFO OAInsight - Entered UserName
+2021-11-17 11:58:26,819 [main] INFO OAInsight - Entered Password
+2021-11-17 11:58:29,891 [main] INFO OAInsight - LoginTest passed
+2021-11-17 11:58:36,072 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 11:58:39,447 [main] INFO OAInsight - Clicked on C
+2021-11-17 11:58:39,498 [main] INFO OAInsight - Clicked on F
+2021-11-17 13:33:59,172 [main] INFO OAInsight - URL is OPened
+2021-11-17 13:34:09,395 [main] INFO OAInsight - Entered UserName
+2021-11-17 13:34:09,577 [main] INFO OAInsight - Entered Password
+2021-11-17 13:34:12,746 [main] INFO OAInsight - LoginTest passed
+2021-11-17 13:34:19,093 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 13:34:23,801 [main] INFO OAInsight - Clicked on C
+2021-11-17 13:34:23,849 [main] INFO OAInsight - Clicked on F
+2021-11-17 13:53:23,005 [main] INFO OAInsight - URL is OPened
+2021-11-17 13:53:33,094 [main] INFO OAInsight - Entered UserName
+2021-11-17 13:53:33,145 [main] INFO OAInsight - Entered Password
+2021-11-17 13:53:36,213 [main] INFO OAInsight - LoginTest passed
+2021-11-17 13:53:42,390 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 13:53:45,612 [main] INFO OAInsight - Clicked on C
+2021-11-17 13:53:45,657 [main] INFO OAInsight - Clicked on F
+2021-11-17 14:31:00,199 [main] INFO OAInsight - URL is OPened
+2021-11-17 14:31:10,318 [main] INFO OAInsight - Entered UserName
+2021-11-17 14:31:10,370 [main] INFO OAInsight - Entered Password
+2021-11-17 14:31:13,435 [main] INFO OAInsight - LoginTest passed
+2021-11-17 14:31:19,773 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 14:31:25,950 [main] INFO OAInsight - Clicked on C
+2021-11-17 14:31:25,991 [main] INFO OAInsight - Clicked on F
+2021-11-17 14:33:13,126 [main] INFO OAInsight - URL is OPened
+2021-11-17 14:33:23,231 [main] INFO OAInsight - Entered UserName
+2021-11-17 14:33:23,281 [main] INFO OAInsight - Entered Password
+2021-11-17 14:33:26,352 [main] INFO OAInsight - LoginTest passed
+2021-11-17 14:33:32,638 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 14:33:35,851 [main] INFO OAInsight - Clicked on C
+2021-11-17 14:33:35,890 [main] INFO OAInsight - Clicked on F
+2021-11-17 14:35:52,467 [main] INFO OAInsight - URL is OPened
+2021-11-17 14:36:02,568 [main] INFO OAInsight - Entered UserName
+2021-11-17 14:36:02,621 [main] INFO OAInsight - Entered Password
+2021-11-17 14:36:05,687 [main] INFO OAInsight - LoginTest passed
+2021-11-17 14:36:12,021 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 14:36:15,515 [main] INFO OAInsight - Clicked on C
+2021-11-17 14:36:15,558 [main] INFO OAInsight - Clicked on F
+2021-11-17 14:37:56,634 [main] INFO OAInsight - URL is OPened
+2021-11-17 14:38:56,313 [main] INFO OAInsight - URL is OPened
+2021-11-17 14:39:06,410 [main] INFO OAInsight - Entered UserName
+2021-11-17 14:39:06,460 [main] INFO OAInsight - Entered Password
+2021-11-17 14:39:09,516 [main] INFO OAInsight - LoginTest passed
+2021-11-17 14:39:15,833 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 14:41:19,269 [main] INFO OAInsight - URL is OPened
+2021-11-17 14:41:29,359 [main] INFO OAInsight - Entered UserName
+2021-11-17 14:41:29,416 [main] INFO OAInsight - Entered Password
+2021-11-17 14:41:32,503 [main] INFO OAInsight - LoginTest passed
+2021-11-17 14:41:38,826 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 14:41:42,059 [main] INFO OAInsight - Clicked on C
+2021-11-17 14:41:42,102 [main] INFO OAInsight - Clicked on F
+2021-11-17 14:45:34,147 [main] INFO OAInsight - URL is OPened
+2021-11-17 14:45:44,249 [main] INFO OAInsight - Entered UserName
+2021-11-17 14:45:44,301 [main] INFO OAInsight - Entered Password
+2021-11-17 14:45:47,386 [main] INFO OAInsight - LoginTest passed
+2021-11-17 14:46:35,472 [main] INFO OAInsight - URL is OPened
+2021-11-17 14:46:45,538 [main] INFO OAInsight - Entered UserName
+2021-11-17 14:46:45,585 [main] INFO OAInsight - Entered Password
+2021-11-17 14:46:48,636 [main] INFO OAInsight - LoginTest passed
+2021-11-17 14:46:55,059 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 14:46:59,443 [main] INFO OAInsight - Clicked on C
+2021-11-17 14:46:59,483 [main] INFO OAInsight - Clicked on F
+2021-11-17 16:29:43,727 [main] INFO OAInsight - URL is OPened
+2021-11-17 16:29:54,721 [main] INFO OAInsight - Entered UserName
+2021-11-17 16:29:54,832 [main] INFO OAInsight - Entered Password
+2021-11-17 16:29:58,009 [main] INFO OAInsight - LoginTest passed
+2021-11-17 16:31:19,629 [main] INFO OAInsight - URL is OPened
+2021-11-17 16:31:29,699 [main] INFO OAInsight - Entered UserName
+2021-11-17 16:31:29,758 [main] INFO OAInsight - Entered Password
+2021-11-17 16:31:32,824 [main] INFO OAInsight - LoginTest passed
+2021-11-17 16:31:36,232 [main] INFO OAInsight - We are on the shipment listing page
+2021-11-17 16:31:42,618 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 16:31:45,904 [main] INFO OAInsight - Clicked on C
+2021-11-17 16:31:45,955 [main] INFO OAInsight - Clicked on F
+2021-11-17 16:44:38,312 [main] INFO OAInsight - URL is OPened
+2021-11-17 16:44:48,532 [main] INFO OAInsight - Entered UserName
+2021-11-17 16:44:48,620 [main] INFO OAInsight - Entered Password
+2021-11-17 16:44:51,720 [main] INFO OAInsight - LoginTest passed
+2021-11-17 16:45:50,073 [main] INFO OAInsight - URL is OPened
+2021-11-17 16:46:00,171 [main] INFO OAInsight - Entered UserName
+2021-11-17 16:46:00,228 [main] INFO OAInsight - Entered Password
+2021-11-17 16:46:03,312 [main] INFO OAInsight - LoginTest passed
+2021-11-17 16:46:06,480 [main] INFO OAInsight - We are on the shipment listing page
+2021-11-17 16:46:09,758 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 16:49:02,594 [main] INFO OAInsight - URL is OPened
+2021-11-17 16:49:12,816 [main] INFO OAInsight - Entered UserName
+2021-11-17 16:49:12,902 [main] INFO OAInsight - Entered Password
+2021-11-17 16:49:15,983 [main] INFO OAInsight - LoginTest passed
+2021-11-17 16:50:12,834 [main] INFO OAInsight - URL is OPened
+2021-11-17 16:50:22,945 [main] INFO OAInsight - Entered UserName
+2021-11-17 16:50:23,013 [main] INFO OAInsight - Entered Password
+2021-11-17 16:50:26,094 [main] INFO OAInsight - LoginTest passed
+2021-11-17 16:50:29,395 [main] INFO OAInsight - We are on the shipment listing page
+2021-11-17 16:50:32,856 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 16:52:25,057 [main] INFO OAInsight - URL is OPened
+2021-11-17 16:52:35,226 [main] INFO OAInsight - Entered UserName
+2021-11-17 16:52:35,315 [main] INFO OAInsight - Entered Password
+2021-11-17 16:52:38,397 [main] INFO OAInsight - LoginTest passed
+2021-11-17 16:53:27,804 [main] INFO OAInsight - URL is OPened
+2021-11-17 16:53:37,887 [main] INFO OAInsight - Entered UserName
+2021-11-17 16:53:37,937 [main] INFO OAInsight - Entered Password
+2021-11-17 16:53:41,007 [main] INFO OAInsight - LoginTest passed
+2021-11-17 16:53:44,179 [main] INFO OAInsight - We are on the shipment listing page
+2021-11-17 16:53:47,350 [main] INFO OAInsight - Clicked on dropdown
+2021-11-17 16:53:50,816 [main] INFO OAInsight - Shipment selected 
+2021-11-17 16:53:50,865 [main] INFO OAInsight - Clicked on C
+2021-11-17 16:53:50,912 [main] INFO OAInsight - Clicked on F
+2021-11-17 16:53:50,967 [main] INFO OAInsight - Clicked on Expand map
+2021-11-17 16:53:51,012 [main] INFO OAInsight - Clicked on collapse map
+2021-11-17 16:53:51,059 [main] INFO OAInsight - Unselect checkboxes
+2021-11-17 16:53:51,094 [main] INFO OAInsight - selected checkboxes
+2021-11-17 16:53:51,406 [main] INFO OAInsight - Switched 1st sentinel
+2021-11-17 16:53:51,675 [main] INFO OAInsight - Selected 24 time duration 
+2021-11-17 16:54:11,971 [main] INFO OAInsight - Selected 7 days in  time duration 
+2021-11-17 16:54:12,336 [main] INFO OAInsight - clicked on Export btn
+2021-11-17 16:54:12,596 [main] INFO OAInsight - CSV downloaded
+2021-11-17 16:54:32,837 [main] INFO OAInsight - navigated to main page
+2021-11-17 16:54:32,895 [main] INFO OAInsight - Clicked on Search button of the shipment listing page
+2021-11-17 16:54:32,984 [main] INFO OAInsight - shipment listing page verified--> Pass
+2021-11-17 18:40:24,110 [main] INFO OAInsight - URL is OPened
+2021-11-17 18:40:34,704 [main] INFO OAInsight - Entered UserName
+2021-11-17 18:40:34,822 [main] INFO OAInsight - Entered Password
+2021-11-17 18:40:37,959 [main] INFO OAInsight - LoginTest passed
+2021-11-17 18:41:56,663 [main] INFO OAInsight - URL is OPened
+2021-11-17 18:42:06,772 [main] INFO OAInsight - Entered UserName
+2021-11-17 18:42:06,840 [main] INFO OAInsight - Entered Password
+2021-11-17 18:42:09,949 [main] INFO OAInsight - LoginTest passed
+2021-11-17 18:42:13,183 [main] INFO OAInsight - We are on the shipment listing page
+2021-11-17 18:42:16,559 [main] INFO OAInsight - Clicked on dropdown pass 
+2021-11-17 18:42:19,847 [main] INFO OAInsight - Shipment selected 
+2021-11-17 18:42:19,903 [main] INFO OAInsight - Clicked on C
+2021-11-17 18:42:19,976 [main] INFO OAInsight - Clicked on F
+2021-11-17 18:42:20,044 [main] INFO OAInsight - Clicked on Expand map
+2021-11-17 18:42:20,103 [main] INFO OAInsight - Clicked on collapse map
+2021-11-17 18:42:20,160 [main] INFO OAInsight - Unselect checkboxes
+2021-11-17 18:42:20,199 [main] INFO OAInsight - selected checkboxes
+2021-11-17 18:42:21,009 [main] INFO OAInsight - Switched 1st sentinel
+2021-11-17 18:42:21,374 [main] INFO OAInsight - Selected 24 time duration 
+2021-11-17 18:42:41,624 [main] INFO OAInsight - Selected 7 days in  time duration 
+2021-11-17 18:42:41,887 [main] INFO OAInsight - clicked on Export btn
+2021-11-17 18:42:42,168 [main] INFO OAInsight - CSV downloaded
+2021-11-17 18:43:02,424 [main] INFO OAInsight - navigated to main page
+2021-11-17 18:43:02,495 [main] INFO OAInsight - Clicked on Search button of the shipment listing page
+2021-11-17 18:43:02,624 [main] INFO OAInsight - shipment listing page verified--> Pass
+2021-11-17 18:56:14,836 [main] INFO OAInsight - URL is OPened
+2021-11-17 18:56:25,084 [main] INFO OAInsight - Entered UserName
+2021-11-17 18:56:25,159 [main] INFO OAInsight - Entered Password
+2021-11-17 18:56:28,246 [main] INFO OAInsight - LoginTest passed
+2021-11-17 18:56:31,537 [main] INFO OAInsight - We are on the shipment listing page
+2021-11-17 18:56:35,250 [main] INFO OAInsight - Clicked on dropdown pass 
+2021-11-17 18:56:40,547 [main] INFO OAInsight - Shipment selected 
+2021-11-17 19:00:09,913 [main] INFO OAInsight - URL is OPened
+2021-11-17 19:00:20,166 [main] INFO OAInsight - Entered UserName
+2021-11-17 19:00:20,230 [main] INFO OAInsight - Entered Password
+2021-11-17 19:00:23,343 [main] INFO OAInsight - LoginTest passed
+2021-11-17 19:00:26,922 [main] INFO OAInsight - We are on the shipment listing page
+2021-11-17 19:00:30,369 [main] INFO OAInsight - Clicked on dropdown pass 
+2021-11-17 19:00:33,645 [main] INFO OAInsight - Shipment selected 
+2021-11-17 19:04:50,564 [main] INFO OAInsight - URL is OPened
+2021-11-17 19:05:00,733 [main] INFO OAInsight - Entered UserName
+2021-11-17 19:05:00,806 [main] INFO OAInsight - Entered Password
+2021-11-17 19:05:03,893 [main] INFO OAInsight - LoginTest passed
+2021-11-17 19:05:07,321 [main] INFO OAInsight - We are on the shipment listing page
+2021-11-17 19:05:10,674 [main] INFO OAInsight - Clicked on dropdown pass 
+2021-11-17 19:05:14,684 [main] INFO OAInsight - Shipment selected 
+2021-11-17 19:07:27,969 [main] INFO OAInsight - URL is OPened
+2021-11-17 19:07:38,137 [main] INFO OAInsight - Entered UserName
+2021-11-17 19:07:38,205 [main] INFO OAInsight - Entered Password
+2021-11-17 19:07:41,285 [main] INFO OAInsight - LoginTest passed
+2021-11-17 19:07:44,512 [main] INFO OAInsight - We are on the shipment listing page
+2021-11-17 19:07:47,784 [main] INFO OAInsight - Clicked on dropdown pass 
+2021-11-17 19:07:52,146 [main] INFO OAInsight - Shipment selected 
+2021-11-17 19:07:52,221 [main] INFO OAInsight - Clicked on C
+2021-11-17 19:07:52,317 [main] INFO OAInsight - Clicked on F
+2021-11-17 19:07:52,362 [main] INFO OAInsight - Clicked on Expand map
+2021-11-17 19:07:52,409 [main] INFO OAInsight - Clicked on collapse map
+2021-11-17 19:07:52,482 [main] INFO OAInsight - Unselect checkboxes
+2021-11-17 19:07:52,533 [main] INFO OAInsight - selected checkboxes
+2021-11-17 19:07:52,833 [main] INFO OAInsight - Switched 1st sentinel
+2021-11-17 19:07:53,201 [main] INFO OAInsight - Selected 24 time duration 
+2021-11-17 19:08:13,485 [main] INFO OAInsight - Selected 7 days in  time duration 
+2021-11-17 19:08:13,751 [main] INFO OAInsight - clicked on Export btn
+2021-11-17 19:08:14,056 [main] INFO OAInsight - CSV downloaded
+2021-11-17 19:08:34,305 [main] INFO OAInsight - navigated to main page
+2021-11-17 19:08:34,380 [main] INFO OAInsight - Clicked on Search button of the shipment listing page
+2021-11-17 19:08:34,537 [main] INFO OAInsight - shipment listing page verified--> Pass
+2021-11-17 20:10:36,634 [main] INFO OAInsight - URL is OPened
+2021-11-17 20:10:47,585 [main] INFO OAInsight - Entered UserName
+2021-11-17 20:10:47,707 [main] INFO OAInsight - Entered Password
+2021-11-17 20:10:50,876 [main] INFO OAInsight - LoginTest passed
+2021-11-17 20:10:54,763 [main] INFO OAInsight - We are on the shipment listing page
+2021-11-17 20:10:59,364 [main] INFO OAInsight - Clicked on dropdown pass 
+2021-11-17 20:11:05,611 [main] INFO OAInsight - clicked on shipment 
+2021-11-17 20:11:05,724 [main] INFO OAInsight - Clicked on C
+2021-11-17 20:11:05,828 [main] INFO OAInsight - Clicked on F
+2021-11-17 20:11:05,916 [main] INFO OAInsight - Clicked on Expand map
+2021-11-17 20:11:05,984 [main] INFO OAInsight - Clicked on collapse map
+2021-11-17 20:11:06,057 [main] INFO OAInsight - Unselect checkboxes
+2021-11-17 20:11:06,121 [main] INFO OAInsight - selected checkboxes
+2021-11-17 20:11:06,302 [main] INFO OAInsight - Switched 1st sentinel
+2021-11-17 20:11:06,646 [main] INFO OAInsight - Selected 24 time duration 
+2021-11-17 20:11:27,010 [main] INFO OAInsight - Selected 7 days in  time duration 
+2021-11-17 20:11:27,245 [main] INFO OAInsight - clicked on Export btn
+2021-11-17 20:11:27,480 [main] INFO OAInsight - CSV downloaded
+2021-11-17 20:11:47,723 [main] INFO OAInsight - navigated to main page
+2021-11-17 20:11:47,810 [main] INFO OAInsight - Clicked on Search button of the shipment listing page
+2021-11-17 20:11:52,136 [main] INFO OAInsight - shipment listing page verified--> Pass
+2021-11-17 22:20:00,614 [main] INFO OAInsight - URL is OPened
+2021-11-17 22:20:11,016 [main] INFO OAInsight - Entered UserName
+2021-11-17 22:20:11,242 [main] INFO OAInsight - Entered Password
+2021-11-17 22:20:14,475 [main] INFO OAInsight - LoginTest passed
+2021-11-17 22:20:17,880 [main] INFO OAInsight - We are on the shipment listing page
+2021-11-17 22:20:21,514 [main] INFO OAInsight - Clicked on dropdown pass 
+2021-11-17 22:20:28,352 [main] INFO OAInsight - clicked on shipment 
+2021-11-17 22:20:28,459 [main] INFO OAInsight - Clicked on C
+2021-11-17 22:20:28,557 [main] INFO OAInsight - Clicked on F
+2021-11-17 22:24:52,555 [main] INFO OAInsight - URL is OPened
+2021-11-17 22:25:02,763 [main] INFO OAInsight - Entered UserName
+2021-11-17 22:25:02,835 [main] INFO OAInsight - Entered Password
+2021-11-17 22:25:05,946 [main] INFO OAInsight - LoginTest passed
+2021-11-17 22:25:09,222 [main] INFO OAInsight - We are on the shipment listing page
+2021-11-17 22:25:12,744 [main] INFO OAInsight - Clicked on dropdown pass 
+2021-11-17 22:25:18,190 [main] INFO OAInsight - clicked on shipment 
+2021-11-17 22:25:18,304 [main] INFO OAInsight - Clicked on C
+2021-11-17 22:25:18,453 [main] INFO OAInsight - Clicked on F
+2021-11-17 22:25:18,604 [main] INFO OAInsight - Clicked on Expand map
+2021-11-17 22:25:18,729 [main] INFO OAInsight - Clicked on collapse map
+2021-11-17 22:25:18,826 [main] INFO OAInsight - Unselect checkboxes
+2021-11-17 22:25:18,878 [main] INFO OAInsight - selected checkboxes
+2021-11-17 22:25:18,953 [main] INFO OAInsight - Switched 1st sentinel
+2021-11-17 22:25:19,309 [main] INFO OAInsight - Selected 24 time duration 
+2021-11-17 22:25:39,605 [main] INFO OAInsight - Selected 7 days in  time duration 
+2021-11-17 22:25:39,871 [main] INFO OAInsight - clicked on Export btn
+2021-11-17 22:25:40,174 [main] INFO OAInsight - CSV downloaded
+2021-11-17 22:26:00,397 [main] INFO OAInsight - navigated to main page
+2021-11-17 22:26:00,469 [main] INFO OAInsight - Clicked on Search button of the shipment listing page
+2021-11-17 22:26:00,546 [main] INFO OAInsight - main refresh page
+2021-11-17 22:26:00,644 [main] INFO OAInsight - shipment listing page verified--> Pass
+2021-11-17 22:41:55,903 [main] INFO OAInsight - URL is OPened
+2021-11-17 22:42:07,739 [main] INFO OAInsight - Entered UserName
+2021-11-17 22:42:07,911 [main] INFO OAInsight - Entered Password
+2021-11-17 22:42:11,130 [main] INFO OAInsight - LoginTest passed
+2021-11-17 22:42:14,648 [main] INFO OAInsight - We are on the shipment listing page
+2021-11-17 22:42:18,396 [main] INFO OAInsight - Clicked on dropdown pass 
+2021-11-17 22:42:33,407 [main] INFO OAInsight - clicked on shipment 
+2021-11-17 22:42:33,507 [main] INFO OAInsight - Clicked on C
+2021-11-17 22:42:33,650 [main] INFO OAInsight - Clicked on F
+2021-11-17 22:42:33,778 [main] INFO OAInsight - Clicked on Expand map
+2021-11-17 22:42:37,174 [main] INFO OAInsight - Clicked on collapse map
+2021-11-17 22:42:37,247 [main] INFO OAInsight - Unselect checkboxes
+2021-11-17 22:42:37,297 [main] INFO OAInsight - selected checkboxes
+2021-11-17 22:43:00,838 [main] INFO OAInsight - Switched 1st sentinel
+2021-11-17 22:43:01,129 [main] INFO OAInsight - Selected 24 time duration 
+2021-11-17 22:43:21,396 [main] INFO OAInsight - Selected 7 days in  time duration 
+2021-11-17 22:43:21,861 [main] INFO OAInsight - clicked on Export btn
+2021-11-17 22:43:22,231 [main] INFO OAInsight - CSV downloaded
+2021-11-17 22:43:42,528 [main] INFO OAInsight - navigated to main page
+2021-11-17 22:43:42,598 [main] INFO OAInsight - Clicked on Search button of the shipment listing page
+2021-11-17 22:43:42,817 [main] INFO OAInsight - main refresh page
+2021-11-17 22:43:42,900 [main] INFO OAInsight - shipment listing page verified--> Pass
+2021-11-17 22:49:39,367 [main] INFO OAInsight - URL is OPened
+2021-11-17 22:49:49,587 [main] INFO OAInsight - Entered UserName
+2021-11-17 22:49:49,685 [main] INFO OAInsight - Entered Password
+2021-11-17 22:49:52,773 [main] INFO OAInsight - LoginTest passed
+2021-11-17 22:49:56,023 [main] INFO OAInsight - We are on the shipment listing page
+2021-11-17 22:49:59,354 [main] INFO OAInsight - Clicked on dropdown pass 
+2021-11-17 22:50:03,574 [main] INFO OAInsight - clicked on shipment 
+2021-11-17 22:50:03,668 [main] INFO OAInsight - Clicked on C
+2021-11-17 22:50:03,855 [main] INFO OAInsight - Clicked on F
+2021-11-17 22:50:03,979 [main] INFO OAInsight - Clicked on Expand map
+2021-11-17 22:50:09,761 [main] INFO OAInsight - Clicked on collapse map
+2021-11-17 22:50:10,931 [main] INFO OAInsight - Unselect checkboxes
+2021-11-17 22:50:13,048 [main] INFO OAInsight - selected checkboxes
+2021-11-17 22:50:14,468 [main] INFO OAInsight - Switched 1st sentinel
+2021-11-17 22:50:14,767 [main] INFO OAInsight - Selected 24 time duration 
+2021-11-17 22:50:35,089 [main] INFO OAInsight - Selected 7 days in  time duration 
+2021-11-17 22:50:35,368 [main] INFO OAInsight - clicked on Export btn
+2021-11-17 22:50:35,702 [main] INFO OAInsight - CSV downloaded
+2021-11-17 22:50:56,052 [main] INFO OAInsight - navigated to main page
+2021-11-17 22:50:56,128 [main] INFO OAInsight - Clicked on Search button of the shipment listing page
+2021-11-17 22:50:56,211 [main] INFO OAInsight - main refresh page
+2021-11-17 22:50:56,380 [main] INFO OAInsight - shipment listing page verified--> Pass
+2021-11-17 22:52:53,095 [main] INFO OAInsight - URL is OPened
+2021-11-17 22:53:03,255 [main] INFO OAInsight - Entered UserName
+2021-11-17 22:53:03,330 [main] INFO OAInsight - Entered Password
+2021-11-17 22:53:06,428 [main] INFO OAInsight - LoginTest passed
+2021-11-17 22:53:09,665 [main] INFO OAInsight - We are on the shipment listing page
+2021-11-17 22:53:12,945 [main] INFO OAInsight - Clicked on dropdown pass 
+2021-11-17 22:53:17,023 [main] INFO OAInsight - clicked on shipment 
+2021-11-17 22:53:17,109 [main] INFO OAInsight - Clicked on C
+2021-11-17 22:53:17,209 [main] INFO OAInsight - Clicked on F
+2021-11-17 22:53:17,331 [main] INFO OAInsight - Clicked on Expand map
+2021-11-17 22:53:22,706 [main] INFO OAInsight - Clicked on collapse map
+2021-11-17 22:53:23,813 [main] INFO OAInsight - Unselect checkboxes
+2021-11-17 22:53:26,010 [main] INFO OAInsight - selected checkboxes
+2021-11-17 22:53:27,439 [main] INFO OAInsight - Switched 1st sentinel
+2021-11-17 22:53:27,808 [main] INFO OAInsight - Selected 24 time duration 
+2021-11-17 22:53:48,121 [main] INFO OAInsight - Selected 7 days in  time duration 
+2021-11-17 22:53:48,414 [main] INFO OAInsight - clicked on Export btn
+2021-11-17 22:53:48,695 [main] INFO OAInsight - CSV downloaded
+2021-11-17 22:54:09,075 [main] INFO OAInsight - navigated to main page
+2021-11-17 22:54:09,187 [main] INFO OAInsight - Clicked on Search button of the shipment listing page
+2021-11-17 22:54:09,239 [main] INFO OAInsight - main refresh page
+2021-11-17 22:54:09,320 [main] INFO OAInsight - shipment listing page verified--> Pass
+2021-12-01 11:19:19,648 [main] INFO OAInsight - URL is OPened
+2021-12-01 11:19:30,215 [main] INFO OAInsight - Entered UserName
+2021-12-01 11:19:30,353 [main] INFO OAInsight - Entered Password
+2021-12-01 11:19:33,520 [main] INFO OAInsight - LoginTest passed
+2021-12-01 11:19:37,105 [main] INFO OAInsight - We are on the shipment listing page
+2021-12-01 11:19:41,932 [main] INFO OAInsight - Clicked on dropdown pass 
+2021-12-01 11:19:47,792 [main] INFO OAInsight - clicked on shipment 
+2021-12-01 11:19:47,888 [main] INFO OAInsight - Clicked on C
+2021-12-01 11:19:48,015 [main] INFO OAInsight - Clicked on F
+2021-12-01 11:19:48,129 [main] INFO OAInsight - Clicked on Expand map
+2021-12-01 11:19:51,574 [main] INFO OAInsight - Clicked on collapse map
+2021-12-01 11:19:51,672 [main] INFO OAInsight - Unselect checkboxes
+2021-12-01 11:19:51,730 [main] INFO OAInsight - selected checkboxes
+2021-12-01 11:19:51,985 [main] INFO OAInsight - Switched 1st sentinel
+2021-12-01 11:19:59,938 [main] INFO OAInsight - Selected 24 time duration 
+2021-12-01 11:20:20,178 [main] INFO OAInsight - Selected 7 days in  time duration 
+2021-12-01 11:20:20,408 [main] INFO OAInsight - clicked on Export btn
+2021-12-01 11:20:20,620 [main] INFO OAInsight - CSV downloaded
+2021-12-01 11:20:40,879 [main] INFO OAInsight - navigated to main page
+2021-12-01 11:20:40,972 [main] INFO OAInsight - Clicked on Search button of the shipment listing page
+2021-12-01 11:20:41,017 [main] INFO OAInsight - main refresh page
+2021-12-01 11:20:41,069 [main] INFO OAInsight - shipment listing page verified--> Pass
+2021-12-01 11:22:25,391 [main] INFO OAInsight - URL is OPened
+2021-12-01 11:22:35,589 [main] INFO OAInsight - Entered UserName
+2021-12-01 11:22:35,683 [main] INFO OAInsight - Entered Password
+2021-12-01 11:22:38,760 [main] INFO OAInsight - LoginTest passed
+2021-12-01 11:23:53,404 [main] INFO OAInsight - URL is OPened
+2021-12-01 11:24:03,500 [main] INFO OAInsight - Entered UserName
+2021-12-01 11:24:03,557 [main] INFO OAInsight - Entered Password
+2021-12-01 11:24:06,628 [main] INFO OAInsight - LoginTest passed
+2021-12-01 11:24:09,822 [main] INFO OAInsight - We are on the shipment listing page
+2021-12-01 11:24:13,117 [main] INFO OAInsight - Clicked on dropdown pass 
+2021-12-01 11:24:21,170 [main] INFO OAInsight - clicked on shipment 
+2021-12-01 11:24:21,240 [main] INFO OAInsight - Clicked on C
+2021-12-01 11:24:21,319 [main] INFO OAInsight - Clicked on F
+2021-12-01 11:24:21,392 [main] INFO OAInsight - Clicked on Expand map
+2021-12-01 11:24:25,394 [main] INFO OAInsight - Clicked on collapse map
+2021-12-01 11:24:26,836 [main] INFO OAInsight - Unselect checkboxes
+2021-12-01 11:24:30,270 [main] INFO OAInsight - selected checkboxes
+2021-12-01 11:24:31,600 [main] INFO OAInsight - Switched 1st sentinel
+2021-12-01 11:24:31,861 [main] INFO OAInsight - Selected 24 time duration 
+2021-12-01 11:24:52,158 [main] INFO OAInsight - Selected 7 days in  time duration 
+2021-12-01 11:24:52,422 [main] INFO OAInsight - clicked on Export btn
+2021-12-01 11:24:52,713 [main] INFO OAInsight - CSV downloaded
+2021-12-01 11:25:13,020 [main] INFO OAInsight - navigated to main page
+2021-12-01 11:25:13,079 [main] INFO OAInsight - Clicked on Search button of the shipment listing page
+2021-12-01 11:25:13,122 [main] INFO OAInsight - main refresh page
+2021-12-01 11:25:13,180 [main] INFO OAInsight - shipment listing page verified--> Pass
